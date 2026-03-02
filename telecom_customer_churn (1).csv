@@ -1,0 +1,1501 @@
+customer_id,gender,age,tenure_months,monthly_charges,total_charges,contract_type,internet_service,support_calls,payment_method,churn
+10001,Male,68,35,1663.21,53005.27,Month-to-month,DSL,0,Electronic,0
+10002,Female,23,22,4395.65,84400.8,Month-to-month,Fiber,5,Bank,1
+10003,Male,23,43,3461.7,120260.56,One year,Fiber,1,Card,0
+10004,Male,20,15,4044.4,103227.86,Month-to-month,Fiber,3,Bank,0
+10005,Male,24,60,1477.2,58348.72,Two year,DSL,1,Mailed,0
+10006,Female,68,12,3236.91,2286.41,One year,DSL,0,Card,0
+10007,Male,25,49,2987.21,99751.61,Month-to-month,Fiber,1,Bank,0
+10008,Male,59,42,4214.3,57839.57,Two year,None,0,Electronic,0
+10009,Male,69,38,4558.61,147187.05,Month-to-month,DSL,1,Card,0
+10010,Female,32,45,357.14,5765.31,Month-to-month,DSL,3,Bank,0
+10011,Male,64,35,3467.89,117380.73,One year,Fiber,2,Card,0
+10012,Male,46,30,543.63,188353.37,Month-to-month,None,1,Card,0
+10013,Male,50,30,2879.64,35707.44,One year,Fiber,3,Mailed,0
+10014,Male,69,6,1651.87,94858.25,One year,None,3,Mailed,0
+10015,Female,47,67,1741.85,19192.98,Two year,DSL,0,Electronic,0
+10016,Male,56,7,1958.9,125510.7,Month-to-month,DSL,2,Mailed,1
+10017,Female,44,52,3220.07,110555.8,Month-to-month,Fiber,1,Mailed,0
+10018,Female,53,14,1870.03,82065.74,One year,Fiber,2,Mailed,0
+10019,Female,46,15,3743.69,104754.03,Month-to-month,DSL,0,Bank,0
+10020,Male,55,21,2201.28,179418.36,Month-to-month,DSL,3,Card,0
+10021,Female,50,35,621.26,40062.57,Month-to-month,Fiber,2,Mailed,0
+10022,Male,54,66,3983.67,5490.34,Month-to-month,DSL,4,Bank,1
+10023,Female,44,2,1643.06,172471.31,Month-to-month,DSL,1,Card,1
+10024,Female,50,35,2334,115846.3,Two year,Fiber,4,Mailed,0
+10025,Female,21,20,3521.59,178241.03,Two year,Fiber,1,Mailed,0
+10026,Female,39,10,1862.54,119792.1,Month-to-month,Fiber,1,Card,1
+10027,Female,19,25,565.95,162222.06,Month-to-month,DSL,0,Bank,0
+10028,Female,27,66,2057.43,86505,Month-to-month,Fiber,4,Bank,1
+10029,Female,22,25,4738.91,150222.13,Two year,Fiber,4,Electronic,0
+10030,Female,27,54,3316.15,182695.25,Month-to-month,Fiber,2,Card,0
+10031,Male,50,33,3455.95,114852.47,One year,Fiber,2,Electronic,0
+10032,Male,55,36,3271.73,36976.24,Month-to-month,DSL,2,Bank,0
+10033,Female,30,14,1235.26,54490.73,One year,DSL,2,Mailed,0
+10034,Female,48,65,2266.17,40530.27,Month-to-month,DSL,4,Electronic,1
+10035,Female,64,54,3829.42,50124.55,One year,DSL,0,Bank,0
+10036,Male,53,52,776.45,61976.67,Month-to-month,Fiber,4,Bank,1
+10037,Female,62,3,1605.91,111471.62,One year,Fiber,1,Mailed,0
+10038,Male,41,41,1598.7,118010.33,Month-to-month,Fiber,1,Card,0
+10039,Male,69,6,2330.49,85873.45,One year,Fiber,2,Bank,0
+10040,Male,32,25,4907.73,123468.74,Two year,DSL,3,Electronic,0
+10041,Male,46,13,617.26,17233.41,Month-to-month,DSL,2,Mailed,0
+10042,Male,25,8,2737.89,18469.86,Two year,DSL,7,Card,1
+10043,Female,22,21,1143.01,35194.06,Month-to-month,DSL,5,Card,1
+10044,Female,46,68,4862.18,104097.42,Month-to-month,DSL,2,Card,0
+10045,Female,64,25,832.53,43584.94,Month-to-month,Fiber,3,Bank,0
+10046,Female,21,68,2196.92,57373.6,Month-to-month,None,2,Card,0
+10047,Female,29,45,3768.06,80662.25,One year,DSL,2,Bank,0
+10048,Male,62,60,3611.41,162561.36,One year,DSL,2,Mailed,0
+10049,Female,19,12,2286.82,3758.57,Month-to-month,Fiber,2,Mailed,0
+10050,Female,44,32,1928.66,130226.39,Month-to-month,DSL,2,Card,0
+10051,Male,48,13,2168.78,134106.43,One year,Fiber,1,Mailed,0
+10052,Female,68,31,1542.1,159932.5,Two year,Fiber,0,Electronic,0
+10053,Male,68,20,1265.06,186617.83,Month-to-month,None,5,Electronic,1
+10054,Female,53,18,2570.29,5007.43,Two year,DSL,5,Bank,0
+10055,Male,53,60,1562.11,31602.96,Month-to-month,Fiber,1,Card,0
+10056,Female,43,63,1651.07,177348.09,Month-to-month,DSL,2,Bank,0
+10057,Female,60,6,3386.75,92245.19,One year,Fiber,0,Mailed,0
+10058,Male,44,32,4852.13,113353.54,Month-to-month,DSL,1,Card,0
+10059,Male,22,43,3137.09,132942.41,Month-to-month,DSL,2,Bank,0
+10060,Male,37,2,661.8,136134.25,Month-to-month,Fiber,0,Card,1
+10061,Male,28,60,655.24,186416.34,One year,Fiber,2,Card,0
+10062,Male,27,23,4771.69,199392.93,One year,Fiber,4,Bank,0
+10063,Male,57,31,1697.27,144311.33,Month-to-month,Fiber,3,Card,0
+10064,Male,55,5,732.71,58157.02,Month-to-month,Fiber,3,Mailed,1
+10065,Male,23,34,3115.51,176070.73,Month-to-month,DSL,5,Electronic,1
+10066,Female,25,10,3231.15,10794.96,Month-to-month,Fiber,3,Electronic,1
+10067,Female,40,2,3347.97,46985.09,Month-to-month,Fiber,6,Card,1
+10068,Male,64,11,1556.79,179579.76,One year,Fiber,1,Electronic,0
+10069,Female,43,50,371.02,51982.11,Month-to-month,None,4,Card,1
+10070,Female,63,31,4835.57,44909.56,Month-to-month,DSL,0,Bank,0
+10071,Female,60,56,1479.2,28486.93,Month-to-month,Fiber,2,Mailed,0
+10072,Female,29,9,3477.32,171963.24,Month-to-month,DSL,4,Electronic,1
+10073,Male,43,21,3621.16,100511.59,Two year,DSL,2,Bank,0
+10074,Female,30,28,3167.03,135303.75,Month-to-month,Fiber,3,Mailed,0
+10075,Male,57,62,1770.66,48574.21,Month-to-month,DSL,0,Electronic,0
+10076,Female,35,7,1574.15,151850.04,Month-to-month,Fiber,0,Electronic,1
+10077,Female,42,16,3109.04,152241.1,Month-to-month,DSL,2,Mailed,0
+10078,Female,50,4,4370.65,63207.01,Month-to-month,DSL,5,Bank,1
+10079,Male,64,4,4749.65,82725.84,Month-to-month,Fiber,1,Bank,1
+10080,Female,57,40,797.76,42728.37,Month-to-month,Fiber,1,Electronic,0
+10081,Male,60,17,1027.69,195335.64,Month-to-month,None,2,Mailed,0
+10082,Female,29,52,4740.26,129474.91,Month-to-month,Fiber,2,Bank,0
+10083,Male,61,52,3761.72,186974.23,Month-to-month,Fiber,1,Mailed,0
+10084,Female,53,36,4450.07,61373.72,Two year,DSL,0,Mailed,0
+10085,Male,65,38,1252.37,156596.29,Month-to-month,DSL,3,Electronic,0
+10086,Male,21,50,3061.65,153405.87,Month-to-month,DSL,1,Mailed,0
+10087,Female,22,63,3595.36,138639.47,Month-to-month,Fiber,1,Mailed,0
+10088,Male,54,63,3496.53,193162.16,Month-to-month,Fiber,1,Card,0
+10089,Female,25,62,2218.31,79317.51,One year,DSL,2,Mailed,0
+10090,Female,59,7,372.36,27012.75,Month-to-month,Fiber,2,Bank,1
+10091,Female,66,27,3039.75,134670.06,One year,Fiber,2,Electronic,0
+10092,Female,45,14,1489.58,146132.65,Month-to-month,DSL,0,Electronic,0
+10093,Female,48,71,2416.19,115437.05,Month-to-month,DSL,3,Mailed,0
+10094,Female,26,5,4800.63,42156.76,One year,Fiber,4,Mailed,1
+10095,Female,68,55,2175.47,101386.73,Month-to-month,Fiber,1,Bank,0
+10096,Female,46,2,4247.07,63125.76,Month-to-month,Fiber,5,Card,1
+10097,Female,31,62,1186.14,86065.84,Month-to-month,DSL,2,Electronic,0
+10098,Female,57,21,3460.56,129398.5,One year,None,1,Card,0
+10099,Female,58,21,4891.93,149297.73,Month-to-month,DSL,3,Bank,0
+10100,Male,39,10,778.9,47212.71,Two year,DSL,2,Electronic,0
+10101,Male,28,58,339.1,81659.75,Month-to-month,None,1,Bank,0
+10102,Female,40,39,2337.84,54563.15,Two year,DSL,2,Mailed,0
+10103,Female,18,5,735.34,40527.69,Month-to-month,Fiber,1,Bank,1
+10104,Female,63,65,3817.41,156894.06,One year,DSL,4,Mailed,0
+10105,Female,54,13,4598.38,181941.29,Month-to-month,Fiber,3,Card,0
+10106,Female,38,53,2339.9,74676.2,Two year,None,3,Electronic,0
+10107,Female,43,45,1515.94,150504.51,Month-to-month,DSL,5,Electronic,1
+10108,Female,63,32,2341.7,179502.06,Month-to-month,Fiber,1,Card,0
+10109,Female,53,36,3700.2,169378.72,Month-to-month,DSL,3,Mailed,0
+10110,Male,40,60,342.55,37379.86,Month-to-month,Fiber,3,Electronic,0
+10111,Female,18,11,3070.43,191302.08,Month-to-month,DSL,5,Bank,1
+10112,Male,68,63,3182.47,75958.61,Two year,DSL,2,Mailed,0
+10113,Female,57,21,3297.13,68508.89,Two year,DSL,0,Electronic,0
+10114,Female,32,52,1437.5,13423.83,Month-to-month,DSL,2,Bank,0
+10115,Male,38,55,3656.05,97748.56,Two year,None,4,Bank,0
+10116,Female,64,26,729.54,22693.71,Month-to-month,DSL,1,Electronic,0
+10117,Male,26,68,1236.57,50459.42,Month-to-month,DSL,4,Card,1
+10118,Female,26,34,4424.11,64071.58,One year,DSL,2,Card,0
+10119,Female,27,52,3772,161956.44,One year,DSL,1,Electronic,0
+10120,Male,69,52,364.6,175222.24,Two year,Fiber,2,Bank,0
+10121,Female,43,29,1467.37,61190.8,Month-to-month,None,2,Card,0
+10122,Male,58,38,1307.71,171880.93,One year,DSL,2,Card,0
+10123,Female,52,42,1572.79,171588.96,Month-to-month,Fiber,3,Card,0
+10124,Male,69,21,1463.53,153165.54,Month-to-month,Fiber,4,Mailed,1
+10125,Male,42,42,593.87,30192.33,Month-to-month,DSL,2,Card,0
+10126,Female,43,13,2457.02,138374.25,Two year,Fiber,0,Electronic,0
+10127,Female,28,64,3743.85,189059.79,One year,Fiber,2,Electronic,0
+10128,Male,55,17,3151.64,136825.56,One year,Fiber,2,Mailed,0
+10129,Female,19,9,3462.5,66991.75,Month-to-month,Fiber,1,Mailed,1
+10130,Female,24,41,681.4,100615.28,Month-to-month,DSL,1,Electronic,0
+10131,Female,35,1,4772.01,129499.28,Month-to-month,None,1,Mailed,1
+10132,Male,44,2,4240.91,102603.51,Month-to-month,Fiber,1,Card,1
+10133,Male,51,60,4083.92,24870.64,Month-to-month,DSL,2,Bank,0
+10134,Male,44,48,4168.02,63100.74,One year,Fiber,1,Bank,0
+10135,Male,34,29,4683.74,160676.81,Month-to-month,DSL,2,Bank,0
+10136,Male,60,10,2857.99,172422.19,Month-to-month,None,4,Electronic,1
+10137,Male,61,58,1241.33,28322.71,Month-to-month,Fiber,4,Mailed,1
+10138,Male,68,60,3198.88,190524.96,Month-to-month,DSL,2,Bank,0
+10139,Male,41,21,3791.54,66435.7,Month-to-month,DSL,2,Card,0
+10140,Male,42,28,3768.21,132800.43,Two year,Fiber,2,Card,0
+10141,Female,24,34,2750.81,150613.2,One year,DSL,0,Card,0
+10142,Male,69,8,621.76,162577.3,One year,DSL,1,Mailed,0
+10143,Female,23,59,2044.23,189204.19,Month-to-month,DSL,0,Bank,0
+10144,Female,41,49,4627.6,63270.99,Month-to-month,DSL,1,Card,0
+10145,Female,50,17,3046.91,171842.78,Month-to-month,DSL,1,Mailed,0
+10146,Male,66,60,2830.16,27205.69,Two year,DSL,3,Card,0
+10147,Male,46,45,1563.61,141303.14,One year,DSL,2,Bank,0
+10148,Male,60,69,2031.71,148653.57,Month-to-month,Fiber,2,Bank,0
+10149,Male,39,32,4508.13,135866.92,Month-to-month,Fiber,3,Bank,0
+10150,Female,43,44,3432.38,51210.63,Month-to-month,DSL,1,Bank,0
+10151,Male,45,65,4000.72,174735.59,One year,DSL,6,Bank,0
+10152,Male,67,8,2435.42,34602.83,Two year,Fiber,2,Card,0
+10153,Male,38,43,3262.16,11673.32,Month-to-month,DSL,4,Bank,1
+10154,Male,66,1,1467.4,143775.53,Month-to-month,DSL,2,Card,1
+10155,Male,24,51,3615.67,95619.67,Month-to-month,DSL,0,Bank,0
+10156,Female,34,24,2309.73,169970.51,Month-to-month,Fiber,3,Card,0
+10157,Male,37,24,2379.96,77296.03,Month-to-month,Fiber,1,Bank,0
+10158,Female,58,17,3351.81,34487.44,Month-to-month,Fiber,1,Card,0
+10159,Male,66,5,4700.52,167452,One year,Fiber,2,Bank,0
+10160,Female,37,20,600.83,110233.02,One year,Fiber,1,Mailed,0
+10161,Male,39,21,4176.29,38649.96,Month-to-month,DSL,3,Card,0
+10162,Male,45,58,1674.2,144356.42,One year,Fiber,2,Mailed,0
+10163,Female,57,31,2386.42,102711.61,Month-to-month,DSL,4,Card,1
+10164,Female,66,11,402.99,121258.28,Month-to-month,Fiber,0,Card,1
+10165,Female,24,52,1714.92,92718.77,Month-to-month,Fiber,2,Card,0
+10166,Male,18,15,2662.37,165913.09,Month-to-month,Fiber,2,Electronic,0
+10167,Female,49,7,564.03,166082.98,Month-to-month,DSL,2,Bank,1
+10168,Male,30,28,2608.15,142168.38,Month-to-month,DSL,3,Mailed,0
+10169,Male,47,51,4657.42,21974.87,Month-to-month,Fiber,3,Mailed,0
+10170,Female,40,58,795.35,167931.92,Two year,Fiber,0,Card,0
+10171,Female,68,5,3892.87,134531.58,Month-to-month,Fiber,2,Mailed,1
+10172,Male,36,5,2225.45,139707.81,Month-to-month,DSL,2,Mailed,1
+10173,Male,49,8,3379.32,73233.59,Month-to-month,Fiber,3,Mailed,1
+10174,Female,47,64,1523.11,175976.63,One year,Fiber,3,Mailed,0
+10175,Female,46,10,1049.61,145348.95,Month-to-month,Fiber,1,Electronic,1
+10176,Female,66,38,1054.17,23405.5,One year,Fiber,1,Card,0
+10177,Male,62,8,631.31,82147.83,Month-to-month,Fiber,2,Mailed,1
+10178,Male,46,25,1172.54,177389.69,Month-to-month,Fiber,1,Electronic,0
+10179,Male,47,66,3421.83,10392.14,Month-to-month,Fiber,2,Electronic,0
+10180,Male,33,50,4443.95,192321.91,Month-to-month,None,5,Card,1
+10181,Male,57,67,4126.39,136153.35,Month-to-month,DSL,4,Bank,1
+10182,Male,36,49,3520.13,126643.82,Month-to-month,DSL,3,Bank,0
+10183,Female,35,36,819.03,54841.29,Month-to-month,None,4,Bank,1
+10184,Male,18,68,1659.18,50509.57,Month-to-month,Fiber,0,Mailed,0
+10185,Male,31,41,1756.09,188469.59,Month-to-month,Fiber,0,Card,0
+10186,Male,68,62,1474.8,60356.22,Two year,DSL,0,Bank,0
+10187,Female,64,10,2720.53,155325.55,Month-to-month,DSL,1,Mailed,1
+10188,Male,67,21,2817.1,79231.24,One year,Fiber,2,Card,0
+10189,Male,19,36,1977.36,28711.56,One year,Fiber,1,Mailed,0
+10190,Female,45,12,1962.81,3132.34,Month-to-month,DSL,1,Bank,0
+10191,Male,66,2,4194.21,109307.21,Month-to-month,DSL,0,Bank,1
+10192,Male,67,13,4009.68,195179.98,Month-to-month,Fiber,3,Electronic,0
+10193,Male,47,53,1746.64,74458.1,One year,DSL,3,Electronic,0
+10194,Male,55,32,4594.81,72081.27,One year,Fiber,2,Card,0
+10195,Male,68,16,4778.23,69474.23,One year,DSL,2,Mailed,0
+10196,Female,21,32,1835.69,104588.22,Two year,Fiber,1,Mailed,0
+10197,Female,18,32,1965.8,88692.31,One year,None,0,Bank,0
+10198,Female,25,11,2676.48,176103.01,Month-to-month,Fiber,1,Bank,1
+10199,Male,46,10,4723.27,101598.64,Month-to-month,DSL,0,Card,1
+10200,Male,56,15,4418.7,102043.81,One year,Fiber,4,Electronic,0
+10201,Male,20,17,782.07,28535.95,Month-to-month,DSL,2,Bank,0
+10202,Female,49,40,2145.83,196565.17,Month-to-month,DSL,1,Mailed,0
+10203,Male,27,18,2900.84,50744.61,One year,None,5,Bank,0
+10204,Male,27,55,2664.72,15599.45,Month-to-month,Fiber,1,Electronic,0
+10205,Female,36,25,1211.16,132966.1,Two year,Fiber,2,Mailed,0
+10206,Male,63,59,4336.44,119477.91,One year,DSL,3,Electronic,0
+10207,Female,51,22,3481.62,83613.99,Month-to-month,DSL,1,Card,0
+10208,Female,50,30,4238.17,85016.25,Two year,DSL,1,Card,0
+10209,Female,40,44,4336.19,157227.72,Month-to-month,Fiber,2,Electronic,0
+10210,Male,45,32,3817.27,39946.82,Month-to-month,Fiber,1,Mailed,0
+10211,Male,49,51,2364.29,164230.41,Month-to-month,Fiber,1,Electronic,0
+10212,Male,67,46,3169.57,130100.68,Month-to-month,Fiber,2,Bank,0
+10213,Male,24,21,1053.72,84374.98,Month-to-month,DSL,0,Bank,0
+10214,Male,46,32,3466.13,92147.69,Month-to-month,DSL,3,Electronic,0
+10215,Male,25,39,1142.49,52072.79,Month-to-month,DSL,1,Bank,0
+10216,Male,18,12,3561.56,150670.75,Month-to-month,DSL,1,Electronic,0
+10217,Female,20,47,1379.11,103062.07,One year,DSL,1,Bank,0
+10218,Male,41,18,852.49,64850.05,One year,None,3,Electronic,0
+10219,Female,40,21,1076.84,119613.97,Month-to-month,DSL,3,Bank,0
+10220,Male,25,13,309.36,199151.16,Month-to-month,None,1,Mailed,0
+10221,Male,64,21,3678.08,87617.19,Month-to-month,DSL,2,Mailed,0
+10222,Male,54,8,3742.28,184217.59,Month-to-month,None,2,Bank,1
+10223,Female,20,46,2720.19,69658.35,One year,Fiber,2,Electronic,0
+10224,Female,68,7,1058.41,11891.81,One year,None,1,Bank,0
+10225,Female,50,23,692.71,41644.18,Month-to-month,DSL,2,Card,0
+10226,Female,45,22,389.91,84320.33,Month-to-month,Fiber,2,Card,0
+10227,Male,64,22,1079.02,44707.35,Month-to-month,None,0,Electronic,0
+10228,Female,25,29,4487.02,1045.18,One year,DSL,3,Bank,0
+10229,Male,51,13,1435.22,183085.31,Month-to-month,DSL,1,Bank,0
+10230,Male,52,2,1965.08,168932,Two year,DSL,4,Mailed,1
+10231,Female,49,29,795.12,148716.15,One year,None,3,Electronic,0
+10232,Female,41,52,1345.1,34395.1,Month-to-month,Fiber,4,Card,1
+10233,Female,31,27,2740.36,24952.35,Month-to-month,Fiber,3,Card,0
+10234,Female,49,50,3156.44,14453.35,Two year,DSL,0,Electronic,0
+10235,Female,63,23,1453.16,145081.81,Month-to-month,DSL,2,Card,0
+10236,Female,60,44,571.34,185832.78,Month-to-month,Fiber,2,Electronic,0
+10237,Female,33,22,2137.85,86676.63,Month-to-month,DSL,1,Card,0
+10238,Female,21,43,1400.76,24708.99,One year,Fiber,1,Card,0
+10239,Male,69,37,1331.9,102966.17,One year,None,1,Electronic,0
+10240,Female,54,61,4811.36,70417.55,One year,DSL,4,Electronic,0
+10241,Female,38,56,3196.61,75590.16,Two year,Fiber,1,Card,0
+10242,Male,31,3,2917.33,124644.79,Two year,DSL,2,Card,0
+10243,Female,48,63,2254.14,144024.9,Two year,Fiber,0,Mailed,0
+10244,Male,65,19,2316.04,23010.12,Month-to-month,DSL,1,Bank,0
+10245,Male,35,23,2842.25,8082.46,Month-to-month,Fiber,4,Electronic,1
+10246,Female,24,29,3573.22,198871.73,One year,DSL,0,Electronic,0
+10247,Male,27,30,3600.09,47312.94,One year,DSL,2,Bank,0
+10248,Male,24,39,1106.96,11712.27,One year,Fiber,0,Mailed,0
+10249,Male,50,25,2650.53,38785.19,Month-to-month,DSL,3,Card,0
+10250,Male,40,8,2236.2,8752.61,One year,Fiber,2,Card,0
+10251,Female,38,58,4391.48,78970.37,One year,DSL,2,Mailed,0
+10252,Male,36,16,3267.67,160677.96,Month-to-month,Fiber,2,Mailed,0
+10253,Female,65,1,2802.77,68907.65,Month-to-month,DSL,1,Bank,1
+10254,Male,36,5,842.35,89392.5,Month-to-month,Fiber,2,Bank,1
+10255,Male,53,3,3146.5,135441.77,Month-to-month,DSL,2,Card,1
+10256,Male,46,65,850.86,102269.92,Month-to-month,DSL,3,Mailed,0
+10257,Male,35,4,1884.87,172427.69,Month-to-month,DSL,3,Mailed,1
+10258,Female,19,64,971.36,173341.1,Month-to-month,Fiber,1,Card,0
+10259,Female,18,10,3552.75,2972.23,One year,DSL,3,Card,0
+10260,Male,64,21,1269.38,155831.21,One year,Fiber,3,Card,0
+10261,Male,22,46,2141.74,92685.99,One year,Fiber,4,Card,0
+10262,Female,37,27,4509.67,197779.27,Month-to-month,DSL,0,Card,0
+10263,Male,28,66,1260.29,97163.18,Month-to-month,Fiber,1,Bank,0
+10264,Male,59,41,2686.68,197392.29,Two year,DSL,0,Card,0
+10265,Male,19,13,2270.58,151159.3,Month-to-month,DSL,1,Mailed,0
+10266,Female,20,9,385.18,50472.37,Two year,Fiber,0,Electronic,0
+10267,Female,40,36,4025.96,108140.6,One year,Fiber,2,Bank,0
+10268,Female,29,58,624.52,198434.99,Month-to-month,Fiber,5,Mailed,1
+10269,Male,37,54,2529,171648.59,Two year,DSL,0,Electronic,0
+10270,Male,22,12,2935.19,20376.01,Month-to-month,DSL,6,Bank,1
+10271,Female,54,14,3253.6,141568.03,Month-to-month,DSL,0,Card,0
+10272,Female,55,34,3536.57,69770.34,One year,Fiber,4,Bank,0
+10273,Female,47,53,1490.38,2389.47,Month-to-month,Fiber,2,Card,0
+10274,Female,26,20,346.9,81292.71,Two year,Fiber,3,Card,0
+10275,Male,51,16,3700.19,47716.13,Month-to-month,DSL,1,Card,0
+10276,Female,61,70,2817.59,163954.98,Month-to-month,DSL,4,Electronic,1
+10277,Male,52,56,4229.75,68128.79,Month-to-month,DSL,2,Bank,0
+10278,Female,69,58,4160.53,165677.22,One year,DSL,1,Card,0
+10279,Male,39,4,4263.63,1118.99,Month-to-month,DSL,0,Mailed,1
+10280,Female,61,4,2579.94,62256.01,Month-to-month,Fiber,3,Bank,1
+10281,Female,41,20,1868.05,48991.88,One year,Fiber,4,Mailed,0
+10282,Female,34,10,4020.32,47479.9,Month-to-month,Fiber,2,Electronic,1
+10283,Female,27,24,2421.08,14569.14,One year,DSL,4,Electronic,0
+10284,Male,47,26,1162.18,38237.73,Month-to-month,DSL,3,Bank,0
+10285,Female,63,37,4318.38,111554.36,One year,Fiber,2,Electronic,0
+10286,Male,40,54,4448.03,58980.85,One year,DSL,5,Electronic,0
+10287,Male,49,21,2491.66,84061.56,Month-to-month,None,1,Bank,0
+10288,Male,34,38,655.79,75996.51,Month-to-month,DSL,2,Mailed,0
+10289,Male,67,46,2122.78,175305.08,Two year,DSL,2,Card,0
+10290,Female,68,4,4076.63,181154.5,Month-to-month,None,1,Bank,1
+10291,Male,34,60,4538.34,99098.44,Two year,DSL,0,Bank,0
+10292,Male,31,57,1256.32,66701.03,Month-to-month,Fiber,3,Card,0
+10293,Male,26,45,614.78,22253.34,Month-to-month,Fiber,3,Mailed,0
+10294,Female,57,20,4423.55,190727.17,Month-to-month,DSL,3,Card,0
+10295,Female,19,17,2130.2,12985.16,Two year,DSL,2,Card,0
+10296,Female,62,71,2846.28,60232.41,Month-to-month,Fiber,3,Mailed,0
+10297,Female,42,4,4849.91,60315.17,Two year,Fiber,3,Mailed,0
+10298,Male,56,14,612.85,64759.86,Two year,DSL,0,Card,0
+10299,Male,26,3,3347.09,33693.08,Month-to-month,None,1,Card,1
+10300,Female,39,58,648.3,156849.12,Month-to-month,DSL,4,Bank,1
+10301,Male,60,55,2064.7,25377.07,One year,DSL,1,Mailed,0
+10302,Male,63,4,4077.93,127346.43,Month-to-month,DSL,2,Electronic,1
+10303,Male,21,24,2337.32,25645.36,One year,DSL,3,Mailed,0
+10304,Female,43,34,4986.76,15036.59,Month-to-month,DSL,1,Card,0
+10305,Female,46,30,2927.58,181976.47,Month-to-month,None,1,Card,0
+10306,Male,62,19,1809.46,38835.62,One year,DSL,4,Card,0
+10307,Female,51,31,1334.52,164428.78,Month-to-month,DSL,5,Card,1
+10308,Female,40,60,1947.45,109381.54,Month-to-month,DSL,1,Electronic,0
+10309,Female,54,60,2050.91,16493.45,Month-to-month,Fiber,1,Mailed,0
+10310,Female,28,19,622.95,191134.19,Month-to-month,Fiber,5,Electronic,1
+10311,Female,23,49,2037,50145.27,Month-to-month,DSL,0,Electronic,0
+10312,Male,35,63,2481.92,172069.42,One year,DSL,2,Card,0
+10313,Female,38,22,3696.87,34593.19,Month-to-month,DSL,1,Electronic,0
+10314,Male,59,24,3386.63,170934.63,Month-to-month,DSL,2,Card,0
+10315,Male,53,30,3631.2,3632.53,One year,DSL,2,Card,0
+10316,Female,58,58,339.31,102844.31,Month-to-month,DSL,1,Card,0
+10317,Male,55,31,1323.04,154119.07,Month-to-month,DSL,3,Electronic,0
+10318,Male,51,64,3409.92,187024.31,Two year,Fiber,3,Card,0
+10319,Male,34,19,2574.75,181931.23,One year,DSL,3,Electronic,0
+10320,Female,54,48,324.97,164105.35,Month-to-month,None,1,Mailed,0
+10321,Female,42,45,4081.12,177750.08,One year,None,0,Card,0
+10322,Male,55,55,3932.2,40644.72,Month-to-month,Fiber,2,Bank,0
+10323,Female,29,55,2877.57,57552.67,One year,DSL,1,Bank,0
+10324,Female,40,18,612.38,58504.74,Month-to-month,DSL,4,Bank,1
+10325,Female,59,63,3902.62,76033.73,Month-to-month,DSL,4,Bank,1
+10326,Female,39,47,3043.45,79270.81,Month-to-month,Fiber,1,Bank,0
+10327,Male,38,57,3975.21,109366.51,Month-to-month,DSL,0,Electronic,0
+10328,Male,44,45,3833.21,32816.07,Month-to-month,Fiber,2,Mailed,0
+10329,Female,48,33,4074.11,138558.09,Two year,None,2,Electronic,0
+10330,Female,23,17,2734.64,34345.74,Month-to-month,DSL,4,Card,1
+10331,Male,44,70,959.53,62751.39,Month-to-month,Fiber,1,Mailed,0
+10332,Male,57,4,3454.44,101165.68,Month-to-month,DSL,1,Mailed,1
+10333,Female,51,20,3216.23,159491.67,Month-to-month,DSL,2,Mailed,0
+10334,Male,29,47,3788.59,148154.38,One year,DSL,6,Mailed,0
+10335,Female,62,15,1098.44,129461.34,Month-to-month,DSL,1,Bank,0
+10336,Female,24,70,1216.38,31998.88,Month-to-month,Fiber,0,Card,0
+10337,Male,27,47,4484.92,109862.02,Month-to-month,DSL,1,Mailed,0
+10338,Male,62,9,3824.9,18401.85,One year,DSL,1,Mailed,0
+10339,Female,34,16,4568.67,76095.27,Month-to-month,Fiber,0,Bank,0
+10340,Female,43,69,3865.96,83289.79,Month-to-month,Fiber,1,Electronic,0
+10341,Male,38,61,3106.63,8922.48,Month-to-month,DSL,1,Electronic,0
+10342,Female,45,10,3374.42,55523.63,Month-to-month,Fiber,4,Electronic,1
+10343,Male,63,50,4478.9,191174.24,Month-to-month,Fiber,6,Card,1
+10344,Female,19,3,3020.39,190772.89,One year,DSL,1,Electronic,0
+10345,Male,60,70,3272.24,71113.08,One year,DSL,1,Mailed,0
+10346,Male,18,51,1035.44,9576.92,One year,DSL,1,Bank,0
+10347,Male,68,19,2527.43,36639.89,Month-to-month,Fiber,2,Bank,0
+10348,Female,53,42,3667.07,79051.34,Month-to-month,Fiber,0,Electronic,0
+10349,Female,68,35,1573.43,189608.16,Month-to-month,Fiber,5,Bank,1
+10350,Male,43,46,1250.59,29098.61,Two year,DSL,2,Mailed,0
+10351,Female,46,26,1774.99,152939.65,Month-to-month,DSL,2,Electronic,0
+10352,Male,38,69,1435.05,22627.83,One year,DSL,1,Mailed,0
+10353,Male,28,64,1310.09,196270.26,Month-to-month,DSL,1,Card,0
+10354,Female,57,37,2296.8,76941.68,Month-to-month,Fiber,1,Mailed,0
+10355,Female,28,49,4566.84,155271.67,Month-to-month,Fiber,6,Mailed,1
+10356,Male,53,21,2683.18,69175.63,Month-to-month,DSL,2,Mailed,0
+10357,Female,66,64,1183.23,125906.11,Two year,DSL,1,Mailed,0
+10358,Female,56,5,661.77,39211.2,Two year,DSL,0,Card,0
+10359,Male,57,70,3571.93,30058.18,Month-to-month,DSL,4,Electronic,1
+10360,Male,52,4,2099.15,187674.76,Month-to-month,DSL,0,Mailed,1
+10361,Female,51,39,4162.61,183611.81,Two year,DSL,4,Electronic,0
+10362,Male,64,35,3399.7,177606.32,One year,DSL,1,Bank,0
+10363,Male,41,1,4042.33,125461.26,Month-to-month,DSL,3,Mailed,1
+10364,Female,39,24,1578.15,161845.37,Month-to-month,DSL,2,Mailed,0
+10365,Male,22,57,3554.09,14738.35,Month-to-month,DSL,2,Bank,0
+10366,Male,50,70,1541.09,67623.02,Month-to-month,Fiber,3,Electronic,0
+10367,Female,53,41,4713.62,63426.92,Month-to-month,DSL,1,Card,0
+10368,Female,64,54,3290.96,127493.42,Month-to-month,None,1,Mailed,0
+10369,Male,37,46,1825.21,71835.6,Month-to-month,DSL,1,Bank,0
+10370,Male,36,60,1566.71,30552.85,Month-to-month,DSL,2,Bank,0
+10371,Female,52,60,1197.35,119696.95,Month-to-month,DSL,1,Mailed,0
+10372,Female,69,57,3564.81,163062.4,One year,DSL,1,Electronic,0
+10373,Female,60,31,1327.96,77042.58,One year,Fiber,1,Electronic,0
+10374,Female,34,24,3097.93,27321.47,Month-to-month,DSL,3,Mailed,0
+10375,Male,62,36,1543.78,40140.95,Two year,None,6,Bank,0
+10376,Female,60,30,3411.25,48259.18,Two year,Fiber,2,Mailed,0
+10377,Female,51,24,4130.22,60679.62,Month-to-month,Fiber,0,Card,0
+10378,Male,26,30,3956.72,128916.22,Month-to-month,Fiber,0,Card,0
+10379,Female,43,7,3876,120588.15,One year,Fiber,3,Electronic,0
+10380,Male,19,35,1182.3,139519.89,One year,DSL,3,Card,0
+10381,Female,26,55,715.41,73137.89,Two year,Fiber,4,Bank,0
+10382,Female,26,14,3585.06,164975.53,Two year,DSL,2,Card,0
+10383,Female,57,10,2031.23,41613.44,One year,DSL,0,Mailed,0
+10384,Male,34,16,2332.03,94339.11,Month-to-month,DSL,2,Bank,0
+10385,Male,18,54,446.4,160386.81,Month-to-month,Fiber,3,Electronic,0
+10386,Female,42,70,1520.01,36851.57,Month-to-month,Fiber,2,Electronic,0
+10387,Male,60,44,458.28,22862.76,Month-to-month,DSL,1,Card,0
+10388,Male,57,45,4432.17,176853.11,One year,Fiber,2,Electronic,0
+10389,Male,59,56,1443.96,69243,Month-to-month,DSL,2,Mailed,0
+10390,Male,42,57,2919.48,137090.15,One year,DSL,1,Bank,0
+10391,Male,56,21,483.2,6044.37,Month-to-month,DSL,1,Mailed,0
+10392,Male,52,68,3434.18,138319.33,Month-to-month,DSL,4,Mailed,1
+10393,Female,20,50,1818.23,63904.16,Month-to-month,DSL,2,Mailed,0
+10394,Female,67,33,4520.22,12092.43,Month-to-month,Fiber,4,Mailed,1
+10395,Male,54,7,4474.16,122352.74,One year,Fiber,1,Bank,0
+10396,Female,61,70,1828.87,48919.96,One year,DSL,1,Bank,0
+10397,Female,61,15,4534.52,77974.64,Two year,DSL,3,Mailed,0
+10398,Female,68,32,4981.94,17035.58,Month-to-month,Fiber,2,Mailed,0
+10399,Female,47,20,4179.45,30285.49,Month-to-month,Fiber,1,Electronic,0
+10400,Male,55,15,4270.9,60297.47,Month-to-month,DSL,1,Electronic,0
+10401,Female,51,48,1470.34,18862.14,Month-to-month,DSL,1,Bank,0
+10402,Female,29,71,3010.5,182254.43,Two year,Fiber,1,Electronic,0
+10403,Male,36,21,616.1,2203.36,One year,Fiber,0,Bank,0
+10404,Male,54,42,746.11,97288.18,Two year,DSL,3,Bank,0
+10405,Female,61,26,4994.8,25526.24,Month-to-month,DSL,4,Card,1
+10406,Female,66,14,1835.2,62228.14,Two year,Fiber,1,Bank,0
+10407,Female,34,57,3816.46,185285.85,Month-to-month,DSL,3,Electronic,0
+10408,Female,27,37,4091.33,33177.22,Two year,None,0,Card,0
+10409,Female,66,58,4332.71,193200.63,Month-to-month,DSL,3,Electronic,0
+10410,Female,64,21,4988.85,41953.08,Month-to-month,Fiber,1,Bank,0
+10411,Male,29,69,1435.03,148571.66,Month-to-month,DSL,2,Bank,0
+10412,Female,33,3,489.65,109788.78,Two year,DSL,3,Mailed,0
+10413,Female,41,37,2232.6,177011.27,Month-to-month,Fiber,2,Bank,0
+10414,Male,36,49,911.38,111244.66,Month-to-month,DSL,1,Card,0
+10415,Male,25,19,405.4,107377.28,Two year,Fiber,1,Bank,0
+10416,Male,48,12,1994.01,39896.14,Month-to-month,DSL,2,Mailed,0
+10417,Male,38,61,3983.57,34079.64,Month-to-month,DSL,1,Bank,0
+10418,Female,34,41,2961.05,183381.34,Month-to-month,DSL,2,Bank,0
+10419,Female,40,33,1770.06,66239.8,Month-to-month,Fiber,2,Bank,0
+10420,Female,54,50,3375.41,75044.37,Two year,DSL,3,Mailed,0
+10421,Female,33,68,1390.49,152204.91,One year,DSL,5,Electronic,0
+10422,Female,23,71,367.59,68425.87,Month-to-month,DSL,2,Bank,0
+10423,Female,25,33,3892.46,190460.43,Two year,Fiber,2,Card,0
+10424,Male,42,24,3231.59,147847.63,Month-to-month,Fiber,1,Mailed,0
+10425,Female,35,61,3882.82,119888.42,Month-to-month,DSL,4,Card,1
+10426,Male,42,61,483.01,176298.14,Month-to-month,DSL,2,Bank,0
+10427,Male,29,28,4234.46,10871.58,Month-to-month,None,2,Mailed,0
+10428,Female,32,58,3211.77,52155.48,Month-to-month,DSL,0,Bank,0
+10429,Male,43,43,2947.96,93542.23,Two year,Fiber,1,Card,0
+10430,Female,58,41,3235.69,46168.73,One year,Fiber,1,Mailed,0
+10431,Male,62,39,4362.84,149037.13,Month-to-month,Fiber,1,Electronic,0
+10432,Female,43,49,3058.6,183922.4,Month-to-month,DSL,2,Electronic,0
+10433,Male,64,17,3030.47,85330.25,One year,Fiber,3,Electronic,0
+10434,Female,49,70,4956.19,69084.39,Two year,Fiber,3,Bank,0
+10435,Female,27,70,3856.63,192348.6,Two year,Fiber,4,Mailed,0
+10436,Female,33,65,2378.78,89525.63,Month-to-month,DSL,3,Card,0
+10437,Female,24,5,3624.77,98320.63,One year,DSL,1,Card,0
+10438,Female,34,2,2129.38,70978.32,Month-to-month,DSL,3,Bank,1
+10439,Male,40,22,1375.71,182000.15,Month-to-month,Fiber,1,Bank,0
+10440,Male,43,57,3105.2,114222.14,Month-to-month,Fiber,2,Card,0
+10441,Male,38,66,4662.46,152672.74,Month-to-month,DSL,0,Mailed,0
+10442,Female,39,16,4666.96,162549.54,Month-to-month,DSL,1,Bank,0
+10443,Male,24,51,1906.95,69027.96,Month-to-month,DSL,1,Mailed,0
+10444,Female,31,39,2780.08,87305.17,Month-to-month,Fiber,4,Card,1
+10445,Female,32,40,1294.69,169845.88,One year,None,1,Mailed,0
+10446,Male,24,38,4979.47,73287.81,Month-to-month,DSL,2,Electronic,0
+10447,Male,26,60,4911.25,158993.09,Month-to-month,DSL,2,Card,0
+10448,Female,68,59,3352.69,188257.47,Month-to-month,DSL,1,Electronic,0
+10449,Male,65,10,4080.75,125018.86,Two year,Fiber,3,Card,0
+10450,Female,25,64,3660.97,148583.83,Month-to-month,Fiber,4,Electronic,1
+10451,Female,67,63,3087.84,161214.37,Month-to-month,None,0,Mailed,0
+10452,Female,40,49,550.74,169162.89,Month-to-month,DSL,2,Card,0
+10453,Female,46,64,2437.39,79615.61,One year,None,2,Card,0
+10454,Female,35,32,3471.5,11201.43,Two year,DSL,5,Electronic,0
+10455,Male,48,7,3484.4,80973.38,Month-to-month,Fiber,2,Mailed,1
+10456,Male,47,21,2053.68,135077.49,Month-to-month,DSL,2,Card,0
+10457,Female,69,20,4725.95,90619.73,Two year,Fiber,4,Bank,0
+10458,Female,56,26,1086.58,150043.67,Month-to-month,Fiber,1,Electronic,0
+10459,Male,52,68,2651.69,72039.5,One year,Fiber,4,Card,0
+10460,Male,35,15,3547.15,127314.08,Month-to-month,Fiber,3,Mailed,0
+10461,Female,59,14,3576.54,38097.54,Month-to-month,DSL,6,Mailed,1
+10462,Male,56,27,3348.6,150124.52,Month-to-month,DSL,0,Mailed,0
+10463,Female,34,40,1593.85,109593.5,Month-to-month,Fiber,3,Mailed,0
+10464,Male,31,58,1034.17,41608.81,One year,DSL,1,Electronic,0
+10465,Female,48,28,3288.92,59090.32,Two year,DSL,1,Card,0
+10466,Male,41,26,3116.72,149973.13,Month-to-month,DSL,2,Electronic,0
+10467,Female,52,63,1142.97,97037.65,One year,Fiber,2,Electronic,0
+10468,Male,61,66,3614.15,43990.26,Month-to-month,DSL,1,Mailed,0
+10469,Male,62,25,2439.31,193486.97,Month-to-month,DSL,2,Bank,0
+10470,Female,51,3,3438.47,143309.88,Month-to-month,DSL,3,Mailed,1
+10471,Male,20,44,4235.63,191469.83,Two year,DSL,2,Bank,0
+10472,Female,54,42,1097.72,85993.9,One year,Fiber,2,Electronic,0
+10473,Male,60,6,389.98,95544.97,One year,None,4,Mailed,1
+10474,Female,57,39,3961.78,179693.09,One year,Fiber,1,Mailed,0
+10475,Male,43,52,3165.58,105484.82,One year,DSL,0,Electronic,0
+10476,Female,40,23,3588.31,141748.5,Two year,None,3,Mailed,0
+10477,Male,61,50,4239.33,51182.4,One year,Fiber,2,Card,0
+10478,Female,56,43,4073.21,89898.57,Two year,DSL,5,Bank,0
+10479,Male,32,19,4816.32,25566.52,Month-to-month,None,3,Bank,0
+10480,Female,66,69,2818.89,41990.03,Month-to-month,Fiber,7,Bank,1
+10481,Female,21,51,2595.93,1187.74,Month-to-month,Fiber,1,Mailed,0
+10482,Female,46,11,2188.87,8813.75,Month-to-month,Fiber,4,Card,1
+10483,Male,39,12,1022.35,195479.48,Month-to-month,DSL,1,Mailed,0
+10484,Female,42,8,2991.25,49228.39,Month-to-month,DSL,2,Bank,1
+10485,Male,30,24,1601.96,132998.83,One year,Fiber,4,Mailed,0
+10486,Female,35,41,4630.15,167980.84,Month-to-month,DSL,2,Bank,0
+10487,Male,50,36,3041,110581.43,Month-to-month,DSL,0,Electronic,0
+10488,Female,33,55,3086.35,31475.76,Month-to-month,Fiber,2,Bank,0
+10489,Male,62,9,1968.15,145895.17,Two year,Fiber,2,Electronic,0
+10490,Male,59,47,544.35,120450.03,Month-to-month,DSL,0,Electronic,0
+10491,Female,61,15,449.2,146518.87,Month-to-month,Fiber,1,Electronic,0
+10492,Male,19,48,2289.68,154179.58,One year,Fiber,3,Bank,0
+10493,Male,52,42,697.46,195106.66,One year,Fiber,0,Card,0
+10494,Female,59,60,3152.18,115139.09,Month-to-month,DSL,1,Bank,0
+10495,Male,51,70,4440.57,68986.58,Month-to-month,DSL,1,Mailed,0
+10496,Male,47,12,4449.7,130044.45,Month-to-month,DSL,2,Mailed,0
+10497,Male,30,2,3397.51,14619.7,Two year,DSL,0,Card,0
+10498,Female,30,7,1292.79,179582.07,Month-to-month,DSL,0,Card,1
+10499,Male,35,3,4356.09,24756.82,Month-to-month,DSL,0,Card,1
+10500,Female,49,3,4464.64,66240.72,Month-to-month,DSL,3,Electronic,1
+10501,Male,49,27,1224.27,163333.33,Month-to-month,None,3,Card,0
+10502,Male,52,40,3765.9,119865.16,One year,DSL,0,Card,0
+10503,Male,56,33,1646.64,79333.47,Month-to-month,Fiber,2,Card,0
+10504,Female,63,1,4072.41,95213.7,Month-to-month,Fiber,3,Bank,1
+10505,Male,69,8,4987.02,171054.93,Month-to-month,DSL,5,Mailed,1
+10506,Male,46,32,441.12,68660.87,Month-to-month,None,3,Mailed,0
+10507,Female,66,48,4517.62,174060.29,Month-to-month,Fiber,1,Card,0
+10508,Male,46,4,3226.36,18538.75,One year,DSL,3,Mailed,0
+10509,Female,61,70,4874.9,155582.89,One year,Fiber,2,Bank,0
+10510,Female,33,19,2485.54,169661.98,Two year,DSL,0,Mailed,0
+10511,Male,61,32,4282.72,37181.71,Two year,Fiber,2,Electronic,0
+10512,Female,64,9,593.25,86638.96,One year,DSL,4,Bank,1
+10513,Male,27,12,1875.81,33934.46,Month-to-month,Fiber,3,Mailed,0
+10514,Female,47,11,614.98,141614.22,One year,DSL,2,Mailed,0
+10515,Female,42,46,4884.11,107534.21,One year,Fiber,3,Bank,0
+10516,Male,56,16,4139.78,127429.35,One year,DSL,3,Mailed,0
+10517,Female,37,1,4306.97,40100.91,Month-to-month,Fiber,1,Mailed,1
+10518,Female,22,63,4708.44,43137.43,Month-to-month,Fiber,1,Card,0
+10519,Female,18,21,699.99,9257.97,One year,DSL,5,Electronic,0
+10520,Female,47,30,2112.31,65091.44,One year,Fiber,2,Bank,0
+10521,Female,66,13,633.86,112389.19,Two year,DSL,4,Card,0
+10522,Male,20,34,1290.73,171729.05,Month-to-month,Fiber,4,Mailed,1
+10523,Female,62,4,1378.02,133718.56,Month-to-month,DSL,2,Bank,1
+10524,Male,31,28,2504.8,87643.87,Month-to-month,Fiber,2,Bank,0
+10525,Female,47,59,1562.24,190670.9,One year,Fiber,3,Electronic,0
+10526,Male,67,27,774.6,144129.79,Month-to-month,DSL,4,Electronic,1
+10527,Male,21,69,1087.21,186102.88,Month-to-month,DSL,1,Bank,0
+10528,Female,35,25,992.2,105990.01,Two year,DSL,2,Electronic,0
+10529,Female,54,3,4873.46,52521.95,Month-to-month,Fiber,1,Electronic,1
+10530,Female,42,68,3868.67,11512.51,One year,DSL,6,Mailed,0
+10531,Male,65,25,4848.48,145490.89,Month-to-month,Fiber,2,Electronic,0
+10532,Female,18,20,2366.78,25139.3,One year,Fiber,2,Electronic,0
+10533,Male,63,34,1608.33,61252.25,Month-to-month,DSL,1,Card,0
+10534,Male,32,26,4051.98,106961.71,Two year,Fiber,4,Mailed,0
+10535,Male,26,5,1833.39,113318.9,Two year,DSL,2,Mailed,0
+10536,Female,32,61,1707.1,120516.06,Month-to-month,DSL,3,Bank,0
+10537,Female,66,9,1392.78,34084.81,Month-to-month,Fiber,1,Electronic,1
+10538,Male,41,50,909.49,76567.74,Month-to-month,DSL,4,Card,1
+10539,Male,21,6,1505.38,123821.65,One year,DSL,4,Card,1
+10540,Female,29,60,1970,193993.95,Two year,Fiber,0,Mailed,0
+10541,Male,54,44,3467.77,145798.6,Month-to-month,DSL,8,Electronic,1
+10542,Female,54,11,594.05,184598.15,One year,None,3,Card,0
+10543,Male,60,66,1289.38,152680.2,Month-to-month,None,2,Bank,0
+10544,Female,23,47,4102.41,118751.68,One year,DSL,3,Electronic,0
+10545,Male,56,3,990.53,39212.65,Two year,DSL,0,Electronic,0
+10546,Female,63,30,1910.43,133670.44,Month-to-month,Fiber,2,Electronic,0
+10547,Male,41,21,4363.9,125052.53,Month-to-month,DSL,2,Card,0
+10548,Female,28,28,1028.15,120891.36,Month-to-month,DSL,1,Mailed,0
+10549,Female,30,62,688.86,98467.39,Month-to-month,Fiber,3,Mailed,0
+10550,Male,51,33,2577.33,106202.66,Month-to-month,DSL,2,Bank,0
+10551,Male,42,35,1721.37,67554.06,Month-to-month,Fiber,2,Card,0
+10552,Female,24,52,2948.02,104343.23,Month-to-month,DSL,2,Electronic,0
+10553,Male,69,34,4077.88,40313.63,Month-to-month,DSL,3,Bank,0
+10554,Female,21,41,944.6,161229.71,Month-to-month,DSL,3,Bank,0
+10555,Male,25,51,3029.29,37969.61,Month-to-month,None,3,Mailed,0
+10556,Female,37,47,2675.89,17908.29,Month-to-month,Fiber,1,Electronic,0
+10557,Female,46,58,977.17,87812.96,One year,Fiber,2,Electronic,0
+10558,Female,68,57,3232.79,132003.18,One year,DSL,3,Card,0
+10559,Female,62,23,1586.11,88105.65,Month-to-month,DSL,0,Card,0
+10560,Female,63,48,2592.82,56074.07,Month-to-month,DSL,3,Card,0
+10561,Female,27,22,686.68,112076.07,One year,DSL,1,Bank,0
+10562,Male,60,17,2460.05,70053.46,Two year,Fiber,1,Electronic,0
+10563,Male,51,69,1740.38,186640.67,Month-to-month,Fiber,0,Mailed,0
+10564,Male,43,11,4165.19,184606.38,Month-to-month,DSL,2,Bank,1
+10565,Female,58,15,567.8,100971.99,Month-to-month,None,3,Bank,0
+10566,Female,66,35,2267.45,66248.91,Month-to-month,DSL,2,Mailed,0
+10567,Female,20,33,2454.63,147689.35,Month-to-month,None,4,Mailed,1
+10568,Female,23,16,3707.53,8305.88,Month-to-month,DSL,1,Card,0
+10569,Male,22,34,2999.15,95479.03,One year,DSL,2,Mailed,0
+10570,Male,22,66,3435.9,67928.36,Month-to-month,DSL,1,Mailed,0
+10571,Female,64,40,3952.13,184186.64,Month-to-month,DSL,2,Mailed,0
+10572,Male,40,28,4352.35,3388.6,Month-to-month,Fiber,4,Mailed,1
+10573,Male,66,47,1775.21,111010.16,Month-to-month,DSL,0,Card,0
+10574,Female,26,39,2828.71,148392.05,Month-to-month,DSL,3,Bank,0
+10575,Male,52,70,4248.51,97518.58,Month-to-month,Fiber,1,Electronic,0
+10576,Female,37,20,4950.42,17995.2,Two year,Fiber,2,Electronic,0
+10577,Male,66,1,4480.74,194519.82,Month-to-month,Fiber,1,Bank,1
+10578,Female,59,63,2045.9,104084.08,One year,DSL,2,Electronic,0
+10579,Female,52,67,1217.28,123223.06,Two year,Fiber,3,Electronic,0
+10580,Female,67,4,2600.14,48085.35,Month-to-month,Fiber,3,Bank,1
+10581,Female,35,58,3785.71,97216.12,Month-to-month,DSL,1,Electronic,0
+10582,Male,34,25,2615.07,86400.75,Month-to-month,DSL,1,Electronic,0
+10583,Female,41,47,2570.95,15904.27,Two year,DSL,3,Bank,0
+10584,Female,20,38,4239.68,22125.91,Two year,DSL,5,Electronic,0
+10585,Female,49,15,1998.6,167657.03,One year,DSL,1,Mailed,0
+10586,Male,52,63,4341.03,48724.17,Month-to-month,DSL,3,Bank,0
+10587,Female,55,21,2211.98,39796.7,One year,Fiber,1,Card,0
+10588,Male,30,57,1842.7,101477.38,Month-to-month,Fiber,1,Electronic,0
+10589,Female,64,53,2433.75,153980.68,Month-to-month,None,2,Card,0
+10590,Male,42,46,3883.5,13327.36,Month-to-month,Fiber,0,Electronic,0
+10591,Male,26,14,892.21,115784.78,Month-to-month,DSL,2,Mailed,0
+10592,Female,21,17,1223.17,24722.88,One year,Fiber,2,Bank,0
+10593,Male,31,39,4771.79,8255.75,Month-to-month,Fiber,1,Card,0
+10594,Female,54,9,1124.81,11496.05,Month-to-month,DSL,4,Bank,1
+10595,Female,51,6,2968.32,166998.66,Month-to-month,Fiber,5,Card,1
+10596,Female,28,23,3022.78,24476.52,Two year,None,2,Electronic,0
+10597,Male,58,59,2601.23,9985.12,One year,Fiber,1,Mailed,0
+10598,Male,20,46,3330.3,88142.08,Month-to-month,None,2,Card,0
+10599,Female,45,38,1380.19,168954.7,Month-to-month,DSL,3,Card,0
+10600,Female,46,14,2897.51,53219.27,Month-to-month,DSL,0,Mailed,0
+10601,Male,26,62,2049.21,84920.81,Two year,DSL,1,Mailed,0
+10602,Female,20,35,3409.84,8944.58,Month-to-month,Fiber,5,Mailed,1
+10603,Female,42,19,963.75,90366.62,Month-to-month,Fiber,3,Mailed,0
+10604,Female,51,30,2983.12,115945,Month-to-month,None,0,Mailed,0
+10605,Male,29,25,1170.77,114610.5,Month-to-month,DSL,4,Bank,1
+10606,Male,59,40,1609.62,67152.91,One year,DSL,2,Electronic,0
+10607,Male,26,14,1327.94,63791.1,Month-to-month,Fiber,2,Electronic,0
+10608,Female,32,26,1159.34,22218.1,Month-to-month,Fiber,1,Card,0
+10609,Female,57,22,4180.84,73992.87,Month-to-month,DSL,4,Mailed,1
+10610,Female,42,48,1642.83,20799.44,Month-to-month,DSL,1,Bank,0
+10611,Male,22,51,4657.48,153552.59,Two year,Fiber,1,Bank,0
+10612,Female,28,3,4858.65,193288.59,Month-to-month,Fiber,3,Card,1
+10613,Female,51,42,2984.92,194044.82,Two year,DSL,2,Mailed,0
+10614,Female,41,19,972.11,173149.15,One year,DSL,2,Electronic,0
+10615,Female,32,28,2060.38,120557.64,Month-to-month,None,1,Mailed,0
+10616,Male,55,45,4049.34,140472.27,Month-to-month,Fiber,2,Bank,0
+10617,Male,25,71,2026.74,57755.95,Month-to-month,DSL,2,Mailed,0
+10618,Female,22,63,708.98,126523.31,One year,DSL,1,Electronic,0
+10619,Male,65,19,2916.89,91674.26,Month-to-month,Fiber,2,Electronic,0
+10620,Male,43,47,4272.07,96921.45,Month-to-month,DSL,1,Card,0
+10621,Female,35,14,4040.85,151797.54,Month-to-month,DSL,3,Bank,0
+10622,Female,23,38,1123.08,57101.75,One year,Fiber,0,Mailed,0
+10623,Male,54,53,3461.99,64289.88,Month-to-month,DSL,1,Mailed,0
+10624,Female,65,61,1336.37,185003.72,Month-to-month,Fiber,2,Card,0
+10625,Male,30,36,1325.58,12188.63,Month-to-month,DSL,3,Card,0
+10626,Female,45,40,4408.14,97641.23,Month-to-month,Fiber,3,Card,0
+10627,Male,22,30,1473.44,182647.36,One year,DSL,0,Bank,0
+10628,Female,30,9,1537.26,122462.24,Month-to-month,DSL,1,Mailed,1
+10629,Male,34,64,303.07,109735.01,One year,DSL,2,Card,0
+10630,Male,67,33,4392.14,50699.09,One year,None,0,Bank,0
+10631,Male,57,52,4025.2,69311.82,Month-to-month,Fiber,2,Mailed,0
+10632,Female,62,14,3248.45,170557.63,One year,DSL,3,Electronic,0
+10633,Male,49,53,3826.25,112284.41,Month-to-month,Fiber,2,Card,0
+10634,Male,46,59,1014.63,103433.7,Month-to-month,Fiber,4,Bank,1
+10635,Female,68,41,2454.12,20816.36,One year,None,2,Mailed,0
+10636,Female,20,68,1950.73,4189.6,Month-to-month,DSL,2,Mailed,0
+10637,Male,57,68,740.75,192773.35,One year,Fiber,0,Card,0
+10638,Male,51,8,2584.81,76020.25,Month-to-month,DSL,0,Card,1
+10639,Female,57,2,4627.48,121039.4,Two year,DSL,2,Mailed,0
+10640,Female,44,41,488.28,16863.3,Month-to-month,None,1,Bank,0
+10641,Female,30,55,1669.87,136939.74,Month-to-month,Fiber,1,Electronic,0
+10642,Female,62,16,1275.44,186580.78,Month-to-month,DSL,3,Mailed,0
+10643,Female,50,62,1419.29,115557.39,One year,DSL,2,Bank,0
+10644,Male,23,48,4569.64,26096.95,One year,Fiber,4,Card,0
+10645,Female,41,30,2499.92,116762.58,Month-to-month,Fiber,3,Mailed,0
+10646,Male,36,12,2491.61,153503.1,Two year,DSL,2,Card,0
+10647,Male,33,35,3874.71,81876.89,Month-to-month,None,1,Electronic,0
+10648,Male,57,11,1026.11,176087.71,Month-to-month,DSL,1,Card,1
+10649,Female,45,64,2590.15,130087.91,Two year,DSL,2,Electronic,0
+10650,Male,50,50,2320.93,179950.53,Two year,None,5,Card,0
+10651,Male,65,21,3105.48,125077.56,One year,DSL,4,Card,0
+10652,Female,58,69,4997.92,27126.31,Two year,DSL,1,Electronic,0
+10653,Male,30,48,3916.41,62628.65,Month-to-month,Fiber,0,Card,0
+10654,Male,60,20,2169.97,41157.19,Two year,Fiber,0,Bank,0
+10655,Female,62,67,4189.5,181856.47,Month-to-month,DSL,5,Card,1
+10656,Male,42,44,1102.33,152319.61,Month-to-month,None,4,Mailed,1
+10657,Male,59,33,443.18,135603.28,Month-to-month,Fiber,2,Card,0
+10658,Male,53,61,1260.91,60892.3,Month-to-month,DSL,2,Bank,0
+10659,Female,44,9,1899.93,37624.91,Month-to-month,Fiber,4,Mailed,1
+10660,Female,55,68,2699.73,151533.77,Month-to-month,DSL,3,Bank,0
+10661,Female,24,35,3191.11,95357.43,Month-to-month,DSL,6,Mailed,1
+10662,Male,22,65,4579.85,45932.12,Month-to-month,Fiber,0,Card,0
+10663,Male,60,8,2696.31,123707.77,Month-to-month,None,3,Bank,1
+10664,Female,62,45,2656,9026.44,Month-to-month,DSL,1,Card,0
+10665,Male,68,47,536.14,65907.88,Month-to-month,DSL,1,Mailed,0
+10666,Male,48,40,464.08,94242.84,One year,DSL,1,Bank,0
+10667,Female,40,54,2890.45,30443.71,Two year,DSL,5,Electronic,0
+10668,Female,59,46,2359.44,196946.24,One year,DSL,6,Bank,0
+10669,Male,27,47,4244.15,42610.38,Month-to-month,DSL,1,Card,0
+10670,Male,49,15,1055.19,26940.27,One year,Fiber,2,Electronic,0
+10671,Male,60,19,417.37,41503.44,Month-to-month,DSL,0,Electronic,0
+10672,Female,47,26,2410.48,154043.17,Month-to-month,DSL,0,Mailed,0
+10673,Female,56,52,1416.15,85675.63,Month-to-month,Fiber,4,Electronic,1
+10674,Female,48,22,533.19,113517.77,One year,Fiber,2,Electronic,0
+10675,Female,35,21,3705.61,5180.82,Month-to-month,DSL,1,Mailed,0
+10676,Male,53,51,824.49,7851.83,Month-to-month,DSL,2,Bank,0
+10677,Female,19,38,3159.1,89719.28,Month-to-month,Fiber,0,Card,0
+10678,Female,31,20,1620.93,163514.39,Two year,DSL,0,Bank,0
+10679,Female,30,29,1115.43,177162.54,One year,DSL,2,Electronic,0
+10680,Female,46,51,2084.83,18254.61,Month-to-month,Fiber,2,Card,0
+10681,Female,29,4,4066.8,108134.26,Month-to-month,DSL,0,Bank,1
+10682,Male,56,55,2142.84,182732.71,Month-to-month,DSL,2,Card,0
+10683,Male,19,71,3828.62,78206.58,One year,DSL,1,Electronic,0
+10684,Female,49,28,889.79,166083.6,Month-to-month,DSL,3,Bank,0
+10685,Male,30,4,3932.03,27605.44,Two year,DSL,4,Card,1
+10686,Female,63,22,1413.59,187143.5,Month-to-month,None,4,Card,1
+10687,Female,44,45,3483.75,150533.24,One year,DSL,2,Bank,0
+10688,Male,66,67,2959.17,188325.54,Month-to-month,DSL,4,Bank,1
+10689,Male,58,66,4666.98,135646.83,Month-to-month,DSL,4,Electronic,1
+10690,Female,34,34,2120.42,73317.38,Month-to-month,None,2,Mailed,0
+10691,Female,57,55,610.98,187698.05,Month-to-month,Fiber,2,Card,0
+10692,Female,48,1,390.03,55837.79,Month-to-month,DSL,0,Bank,1
+10693,Male,51,38,4186.24,67102.33,One year,Fiber,4,Bank,0
+10694,Female,41,6,2766.26,140460.88,Month-to-month,DSL,3,Bank,1
+10695,Female,62,25,3943.65,153297.94,One year,DSL,2,Card,0
+10696,Female,52,17,1401.8,185951.29,One year,DSL,3,Electronic,0
+10697,Male,65,61,1921.89,41755.68,Month-to-month,DSL,3,Mailed,0
+10698,Female,23,12,441.49,159801.61,One year,DSL,2,Card,0
+10699,Female,36,6,4819.01,147970.66,One year,Fiber,6,Electronic,1
+10700,Male,47,27,3438.98,13695.12,Month-to-month,DSL,1,Card,0
+10701,Female,24,8,4686.06,78057.41,One year,Fiber,2,Card,0
+10702,Female,27,65,1547.83,57270.33,Month-to-month,DSL,2,Bank,0
+10703,Male,58,57,3173.88,61593.59,Month-to-month,DSL,2,Electronic,0
+10704,Female,49,40,3488.95,196606.43,One year,DSL,3,Bank,0
+10705,Male,51,14,1792.48,128912.71,Month-to-month,None,2,Bank,0
+10706,Male,45,35,4286.11,143817.56,Month-to-month,DSL,3,Electronic,0
+10707,Female,32,48,4751.66,195346.91,Month-to-month,Fiber,1,Bank,0
+10708,Female,47,56,4458.82,76063.15,One year,DSL,1,Bank,0
+10709,Female,54,49,3773.61,160566.19,Two year,DSL,0,Mailed,0
+10710,Female,46,13,1604.08,87471.66,Month-to-month,DSL,6,Electronic,1
+10711,Male,39,61,1623.6,174037.2,One year,DSL,2,Electronic,0
+10712,Female,21,49,4827.79,36950.85,Two year,DSL,6,Bank,0
+10713,Male,37,46,348.34,189589.55,Month-to-month,DSL,2,Bank,0
+10714,Female,49,62,3665.43,44535.57,Month-to-month,Fiber,1,Electronic,0
+10715,Female,53,8,3619.36,65917.88,One year,DSL,1,Electronic,0
+10716,Female,67,43,3226.64,151482.25,One year,Fiber,0,Card,0
+10717,Male,21,20,4953.51,79357.27,Two year,DSL,2,Electronic,0
+10718,Female,44,39,1765.83,122034.06,Month-to-month,Fiber,2,Card,0
+10719,Female,34,49,1897.87,89470.13,Month-to-month,Fiber,5,Bank,1
+10720,Female,29,64,671.02,148731.62,Month-to-month,DSL,1,Mailed,0
+10721,Female,39,62,2381.15,46437.92,Month-to-month,DSL,1,Mailed,0
+10722,Male,34,54,1526.93,12633.14,Month-to-month,Fiber,2,Card,0
+10723,Female,27,9,1913.92,60685.95,One year,Fiber,2,Bank,0
+10724,Male,18,37,4222.49,95387.42,Month-to-month,DSL,2,Bank,0
+10725,Male,39,49,4696.78,34435.99,One year,DSL,0,Bank,0
+10726,Male,43,41,1172.95,71604.66,Month-to-month,Fiber,3,Electronic,0
+10727,Male,35,17,2050.79,80596.62,Month-to-month,DSL,3,Bank,0
+10728,Male,67,21,4664.56,12420.98,Month-to-month,Fiber,3,Electronic,0
+10729,Male,31,51,590.5,117078.14,Month-to-month,DSL,1,Card,0
+10730,Female,64,59,734.09,176984.34,Month-to-month,DSL,3,Mailed,0
+10731,Male,46,39,1065.12,31196.84,Two year,Fiber,1,Card,0
+10732,Male,29,55,3097.5,119963.79,One year,Fiber,2,Bank,0
+10733,Male,53,41,1007.22,133283.1,Month-to-month,DSL,2,Bank,0
+10734,Female,52,39,4849.96,84447.6,Month-to-month,DSL,1,Card,0
+10735,Female,69,13,2399.56,140518.42,Two year,Fiber,5,Electronic,0
+10736,Male,29,64,2657.13,82735.58,Month-to-month,Fiber,1,Electronic,0
+10737,Female,24,11,1459.3,101422.82,Month-to-month,DSL,2,Electronic,1
+10738,Male,46,19,2513.51,2463.26,Month-to-month,Fiber,1,Mailed,0
+10739,Male,28,11,3410.99,138652.3,Two year,Fiber,4,Mailed,1
+10740,Female,50,46,3830.53,132607.19,Month-to-month,Fiber,2,Bank,0
+10741,Male,23,45,3843.18,8641.77,Month-to-month,Fiber,1,Card,0
+10742,Female,64,1,3016.09,74281.77,Two year,DSL,1,Card,0
+10743,Female,32,40,4550.49,195827.34,Month-to-month,Fiber,1,Bank,0
+10744,Male,49,19,4141.82,84726.58,Month-to-month,Fiber,3,Electronic,0
+10745,Male,68,61,3858.13,100887.14,Month-to-month,DSL,1,Mailed,0
+10746,Female,28,12,561.35,182076.1,Two year,DSL,1,Card,0
+10747,Male,40,61,332.33,143735.11,Month-to-month,DSL,3,Bank,0
+10748,Male,43,33,1298.5,116831.96,Two year,Fiber,3,Electronic,0
+10749,Male,51,45,3418.56,159763.13,One year,DSL,2,Electronic,0
+10750,Female,63,69,2232.63,173008.89,Month-to-month,Fiber,0,Mailed,0
+10751,Female,51,8,2191.31,91920.73,Two year,None,1,Mailed,0
+10752,Male,46,25,4457.56,95546.56,Month-to-month,Fiber,2,Bank,0
+10753,Female,21,46,4509.15,77824.14,Month-to-month,None,1,Bank,0
+10754,Female,34,30,4573.12,193374.52,Month-to-month,None,0,Electronic,0
+10755,Female,52,47,1775.23,139736.08,Month-to-month,DSL,0,Electronic,0
+10756,Female,30,49,3547.96,17561.39,Month-to-month,Fiber,0,Card,0
+10757,Female,58,47,1576.68,172728.97,Month-to-month,DSL,2,Electronic,0
+10758,Male,56,18,1195.87,96631.43,Month-to-month,Fiber,0,Bank,0
+10759,Male,32,66,1167.77,14682.03,One year,DSL,0,Mailed,0
+10760,Male,46,68,1907.91,110393.73,Month-to-month,None,5,Bank,1
+10761,Female,46,33,2320.8,84015.69,Two year,Fiber,3,Card,0
+10762,Female,28,36,4205.46,175672.13,Month-to-month,Fiber,1,Card,0
+10763,Male,69,19,863.49,41594.93,Month-to-month,DSL,0,Mailed,0
+10764,Female,49,28,3754.15,165466.46,Month-to-month,DSL,2,Bank,0
+10765,Male,19,40,2797.84,111980.05,Month-to-month,Fiber,0,Card,0
+10766,Male,64,15,1653.34,11867.45,Month-to-month,DSL,1,Bank,0
+10767,Male,31,41,2616.25,194397.21,One year,Fiber,1,Card,0
+10768,Female,37,39,1709.73,103010.43,Two year,DSL,2,Mailed,0
+10769,Female,39,2,3101.59,58884.49,Two year,Fiber,2,Card,0
+10770,Male,28,63,2339.07,94411.96,Month-to-month,DSL,3,Bank,0
+10771,Male,44,29,1072.71,171713.7,Two year,Fiber,2,Bank,0
+10772,Male,20,66,847.94,61675.72,Month-to-month,Fiber,2,Card,0
+10773,Male,34,51,2869.47,39342.6,Month-to-month,DSL,2,Electronic,0
+10774,Female,61,10,4541.34,26685.18,Two year,DSL,0,Mailed,0
+10775,Female,45,14,1916.6,60274.02,One year,DSL,2,Mailed,0
+10776,Male,46,51,3745.1,156229.57,Month-to-month,Fiber,0,Card,0
+10777,Male,38,39,3395.71,94853.65,Month-to-month,Fiber,0,Card,0
+10778,Female,64,28,4678.31,46268.84,Month-to-month,Fiber,4,Electronic,1
+10779,Female,33,3,4158.61,34070.81,One year,Fiber,2,Mailed,0
+10780,Male,54,70,2963.04,67213.17,Month-to-month,DSL,3,Electronic,0
+10781,Male,37,27,3388.04,188044.95,Two year,DSL,4,Mailed,0
+10782,Male,23,2,4522.42,69262.32,Month-to-month,DSL,4,Card,1
+10783,Female,36,38,2177.74,197636.69,Month-to-month,DSL,1,Mailed,0
+10784,Female,22,3,1835.94,97560.86,Month-to-month,None,3,Mailed,1
+10785,Female,20,16,350.81,36653.62,Month-to-month,Fiber,1,Mailed,0
+10786,Male,18,40,4184.79,178336.88,Month-to-month,DSL,3,Electronic,0
+10787,Male,55,2,4064.61,92610.72,One year,Fiber,1,Electronic,0
+10788,Female,32,41,790.94,142224.6,Two year,Fiber,2,Mailed,0
+10789,Female,51,12,3011.23,196758.61,Two year,DSL,3,Bank,0
+10790,Male,52,35,2480.71,10984.89,One year,DSL,1,Electronic,0
+10791,Female,66,65,857.93,20242.22,Two year,DSL,4,Card,0
+10792,Female,42,55,4908.67,144370.89,Month-to-month,Fiber,2,Card,0
+10793,Male,41,45,1309.07,57083.18,One year,None,0,Mailed,0
+10794,Female,29,62,616,37675.98,Month-to-month,Fiber,1,Card,0
+10795,Male,35,49,3095.78,8833.01,Month-to-month,DSL,0,Electronic,0
+10796,Male,32,25,3772.67,5347.5,Month-to-month,DSL,1,Bank,0
+10797,Male,61,23,452.48,155122.64,Month-to-month,Fiber,4,Bank,1
+10798,Male,33,24,3395.97,27752.25,Month-to-month,Fiber,2,Bank,0
+10799,Male,44,38,2801.77,94076.4,Two year,Fiber,2,Card,0
+10800,Male,25,28,785.35,121573.47,Month-to-month,Fiber,1,Mailed,0
+10801,Male,63,21,1110.86,86242.01,Month-to-month,DSL,1,Card,0
+10802,Female,42,54,2969.48,6394.22,Month-to-month,Fiber,4,Mailed,1
+10803,Male,34,18,1692.88,156916.8,Month-to-month,Fiber,4,Bank,1
+10804,Male,46,36,4710.08,3092.13,Month-to-month,DSL,1,Electronic,0
+10805,Female,25,45,4148.08,152616.09,Month-to-month,Fiber,4,Card,1
+10806,Female,32,53,4922.77,178767.59,Month-to-month,DSL,0,Electronic,0
+10807,Female,44,30,1520.45,87135.14,Month-to-month,DSL,2,Bank,0
+10808,Male,63,60,4857.7,107572.95,One year,DSL,0,Mailed,0
+10809,Female,67,32,2326.8,95919.7,One year,DSL,2,Electronic,0
+10810,Male,69,67,1933.34,78452.52,Month-to-month,DSL,1,Card,0
+10811,Male,24,67,536.64,177597.48,Month-to-month,DSL,3,Electronic,0
+10812,Male,20,28,548,178892.77,Month-to-month,Fiber,3,Electronic,0
+10813,Male,46,44,3552.45,67827.46,One year,DSL,0,Card,0
+10814,Female,61,41,2452.27,123398.88,Month-to-month,DSL,2,Mailed,0
+10815,Female,41,63,1364.65,185454.6,Month-to-month,DSL,0,Card,0
+10816,Male,20,23,3185.66,192449.64,One year,Fiber,2,Bank,0
+10817,Male,37,48,1488.43,102282.85,Month-to-month,DSL,1,Mailed,0
+10818,Male,63,32,3014.87,91112.14,Month-to-month,DSL,3,Electronic,0
+10819,Female,32,57,1988.28,56460.17,Month-to-month,Fiber,2,Card,0
+10820,Male,42,33,4170.7,191815.5,Two year,Fiber,1,Bank,0
+10821,Male,47,24,4157.27,29420.05,Two year,Fiber,2,Card,0
+10822,Female,31,39,2543.55,116386.09,One year,DSL,3,Mailed,0
+10823,Female,24,34,1948.85,57227.5,Month-to-month,DSL,3,Bank,0
+10824,Male,34,56,2004.03,56522.65,Month-to-month,Fiber,0,Electronic,0
+10825,Female,61,28,4086.86,81588.75,Two year,DSL,1,Mailed,0
+10826,Female,37,37,1842.44,199759.79,Two year,DSL,4,Bank,0
+10827,Male,53,7,1282.58,11938.3,Month-to-month,DSL,3,Mailed,1
+10828,Female,26,68,698.04,116129.82,One year,Fiber,1,Electronic,0
+10829,Male,55,37,2493.46,17431.86,Month-to-month,DSL,0,Bank,0
+10830,Female,65,56,2566.02,31749.65,Month-to-month,None,4,Card,1
+10831,Male,39,65,4252.27,88473.03,One year,Fiber,1,Card,0
+10832,Male,19,65,1339.82,102581.57,Month-to-month,DSL,3,Electronic,0
+10833,Male,41,47,2090.66,52499.69,Two year,Fiber,1,Bank,0
+10834,Female,25,20,4099.51,63974.97,Month-to-month,Fiber,2,Electronic,0
+10835,Male,28,19,4171.03,18306.44,Month-to-month,Fiber,4,Electronic,1
+10836,Female,30,29,2107.67,61340.74,Two year,DSL,1,Mailed,0
+10837,Male,34,60,2457.88,193345.13,Two year,Fiber,4,Card,0
+10838,Male,25,18,1725.44,188996.77,Month-to-month,DSL,2,Electronic,0
+10839,Female,38,35,4683.01,67640.78,Month-to-month,None,3,Mailed,0
+10840,Male,35,43,857.63,114599.93,One year,DSL,4,Electronic,0
+10841,Male,47,11,4688.62,182009.48,Month-to-month,DSL,5,Electronic,1
+10842,Female,35,49,3514.17,2230.58,Two year,Fiber,1,Electronic,0
+10843,Male,63,38,2798.39,162326.03,Two year,Fiber,2,Card,0
+10844,Male,64,64,453.5,189725.54,Month-to-month,Fiber,3,Bank,0
+10845,Male,48,69,2535.3,19173.82,Month-to-month,DSL,0,Card,0
+10846,Male,55,8,2216.42,33128.09,Month-to-month,DSL,1,Mailed,1
+10847,Female,49,34,1057.73,192188.51,Two year,None,2,Bank,0
+10848,Female,28,48,3385.13,107970.49,Month-to-month,Fiber,0,Mailed,0
+10849,Male,62,56,4864.41,3825.13,Month-to-month,Fiber,2,Electronic,0
+10850,Female,42,65,2942.29,52268.77,Month-to-month,DSL,4,Bank,1
+10851,Male,50,31,3659.34,90538.79,Month-to-month,DSL,3,Mailed,0
+10852,Female,55,4,621.72,138888.87,Month-to-month,Fiber,2,Electronic,1
+10853,Male,58,50,2263.03,146898.92,Month-to-month,Fiber,4,Mailed,1
+10854,Male,25,69,846.88,199088.88,Two year,DSL,3,Mailed,0
+10855,Male,28,30,3180.14,58214.73,Two year,Fiber,0,Card,0
+10856,Male,39,59,4710.87,108105.8,One year,Fiber,2,Electronic,0
+10857,Male,68,67,3410.36,107131.39,Month-to-month,DSL,5,Card,1
+10858,Male,41,45,660.97,81723.41,Month-to-month,DSL,1,Bank,0
+10859,Female,58,4,1966.93,34663.22,One year,DSL,2,Electronic,0
+10860,Male,34,26,2888.12,195513.86,Month-to-month,Fiber,2,Card,0
+10861,Female,29,27,2195.08,170810.12,Two year,DSL,2,Card,0
+10862,Male,63,46,4218.13,100168.27,One year,DSL,1,Bank,0
+10863,Female,49,64,4128.95,121045.84,Month-to-month,Fiber,2,Mailed,0
+10864,Female,32,51,3175.61,46224.95,Two year,DSL,0,Mailed,0
+10865,Female,33,50,2055.25,109213.63,Two year,DSL,0,Mailed,0
+10866,Male,39,6,1500.08,139299.06,Month-to-month,DSL,0,Bank,1
+10867,Male,45,59,797.61,103518.24,Month-to-month,Fiber,2,Card,0
+10868,Female,37,15,1968.02,198066.75,Month-to-month,Fiber,5,Electronic,1
+10869,Male,50,30,2241.91,122656.99,Month-to-month,DSL,3,Bank,0
+10870,Female,27,42,3476.37,74823.77,Month-to-month,Fiber,4,Mailed,1
+10871,Male,57,37,3393.35,154658.25,Month-to-month,Fiber,1,Mailed,0
+10872,Female,49,42,629.51,34922.04,Two year,DSL,2,Electronic,0
+10873,Female,67,35,2157.72,77518.65,Month-to-month,DSL,3,Bank,0
+10874,Male,50,6,1154.36,70044.83,Month-to-month,DSL,2,Mailed,1
+10875,Female,19,68,1037.02,86929.61,One year,DSL,3,Bank,0
+10876,Male,50,18,4188.32,156574.19,Month-to-month,Fiber,5,Card,1
+10877,Female,50,29,497,97350.43,Two year,Fiber,3,Bank,0
+10878,Female,58,59,2270.16,159008.88,Month-to-month,DSL,1,Card,0
+10879,Male,30,47,1090.56,115721.29,Month-to-month,DSL,2,Electronic,0
+10880,Male,47,17,4432.85,69071.82,Month-to-month,DSL,1,Card,0
+10881,Male,50,22,2918.09,162185.77,One year,Fiber,2,Card,0
+10882,Female,30,68,1387.49,48419.64,Month-to-month,DSL,1,Electronic,0
+10883,Male,69,69,2661.41,45652.21,One year,Fiber,2,Mailed,0
+10884,Female,43,37,3737.99,101396.08,Month-to-month,DSL,1,Electronic,0
+10885,Female,39,49,4803.15,52909,Month-to-month,Fiber,3,Bank,0
+10886,Male,56,13,1336.1,2808.32,Month-to-month,Fiber,3,Electronic,0
+10887,Male,19,34,4465.05,130011.21,Two year,DSL,3,Bank,0
+10888,Female,55,53,4691.23,102707.67,Two year,DSL,0,Mailed,0
+10889,Female,56,51,4607.18,89658.05,Month-to-month,None,0,Bank,0
+10890,Male,43,3,3286.45,193426.73,Month-to-month,DSL,1,Electronic,1
+10891,Male,63,42,3260.16,114668.64,Month-to-month,Fiber,1,Electronic,0
+10892,Male,67,32,2195.09,172822.88,Month-to-month,DSL,4,Mailed,1
+10893,Male,32,51,3836.27,28750.6,Month-to-month,Fiber,1,Electronic,0
+10894,Male,51,46,2797.08,114272.09,Two year,DSL,2,Mailed,0
+10895,Female,59,21,3483.96,173727.95,Two year,None,1,Mailed,0
+10896,Female,61,44,2313.75,117038.05,Month-to-month,Fiber,2,Electronic,0
+10897,Female,66,11,3738.03,143884.82,Month-to-month,Fiber,0,Card,1
+10898,Female,57,68,4175.02,75036.67,Two year,Fiber,4,Bank,0
+10899,Male,28,1,988.25,19397.45,One year,Fiber,2,Card,0
+10900,Male,20,63,4214.77,92122.16,Month-to-month,DSL,0,Mailed,0
+10901,Male,23,24,2839.39,79501.4,Month-to-month,Fiber,2,Bank,0
+10902,Female,26,13,4269.93,173544.98,Month-to-month,None,3,Card,0
+10903,Female,23,11,2327.12,49555.07,Month-to-month,DSL,2,Electronic,1
+10904,Male,26,51,2081.49,193380.11,Month-to-month,None,2,Card,0
+10905,Male,56,17,4600.79,191669.49,Month-to-month,Fiber,2,Bank,0
+10906,Female,48,24,1480.5,50278.7,One year,Fiber,0,Bank,0
+10907,Female,49,19,4267.8,70262.34,Month-to-month,DSL,0,Bank,0
+10908,Male,58,37,2574.9,179215.59,Month-to-month,DSL,1,Bank,0
+10909,Male,67,8,2716.25,193357.82,Month-to-month,DSL,3,Card,1
+10910,Female,29,28,1749.8,89244.38,One year,DSL,4,Electronic,0
+10911,Male,25,5,2993.3,64878.41,Two year,Fiber,2,Electronic,0
+10912,Male,25,17,1828.49,105692.71,Month-to-month,DSL,2,Bank,0
+10913,Male,67,36,484.57,137866.07,Month-to-month,DSL,2,Electronic,0
+10914,Female,45,19,1578.39,55421.43,Two year,None,0,Card,0
+10915,Female,37,64,329.98,147558.16,Month-to-month,DSL,0,Electronic,0
+10916,Female,64,11,4898.27,11279.81,Month-to-month,DSL,0,Mailed,1
+10917,Female,24,54,4839.01,10809.6,Month-to-month,DSL,0,Electronic,0
+10918,Female,28,45,2157.23,77871.25,Month-to-month,DSL,1,Bank,0
+10919,Female,37,47,3723.34,71341.17,Month-to-month,Fiber,2,Electronic,0
+10920,Female,33,12,1925.29,63811.01,Two year,Fiber,3,Electronic,0
+10921,Male,21,21,3454.14,98712.93,One year,Fiber,6,Electronic,0
+10922,Male,23,11,4085.52,64825.98,Month-to-month,DSL,3,Electronic,1
+10923,Male,39,5,4749.75,39259.33,Two year,Fiber,2,Mailed,0
+10924,Male,43,56,2181,62584.44,Month-to-month,DSL,2,Card,0
+10925,Male,20,20,3981.5,195005.95,Month-to-month,DSL,0,Bank,0
+10926,Male,58,41,1549.86,82811.57,Month-to-month,DSL,1,Bank,0
+10927,Male,59,46,4954.56,89497.84,One year,DSL,2,Electronic,0
+10928,Female,31,12,421.12,115732.45,Month-to-month,DSL,1,Card,0
+10929,Female,28,70,3136.59,196684.81,Month-to-month,DSL,1,Electronic,0
+10930,Male,35,17,3399.68,49078.65,One year,None,0,Mailed,0
+10931,Male,29,19,3533.81,136575.14,One year,DSL,0,Card,0
+10932,Female,40,26,865.82,143480.95,One year,DSL,3,Card,0
+10933,Male,29,48,4711.09,121857.56,Month-to-month,DSL,1,Card,0
+10934,Male,30,52,1151.56,18627.09,Month-to-month,Fiber,1,Card,0
+10935,Female,42,70,3226.94,135697.58,Month-to-month,DSL,4,Electronic,1
+10936,Male,62,55,1346.58,13754.85,Month-to-month,Fiber,3,Mailed,0
+10937,Female,68,33,1743.92,119632.39,Two year,None,2,Card,0
+10938,Male,36,62,2868.36,148176.65,Month-to-month,DSL,5,Bank,1
+10939,Female,63,23,2260.81,42983.01,Month-to-month,DSL,2,Bank,0
+10940,Female,53,15,1053.06,168482.78,One year,DSL,1,Mailed,0
+10941,Female,62,27,1103.4,7040.41,Month-to-month,Fiber,4,Bank,1
+10942,Male,25,64,2265.28,168918.76,Month-to-month,DSL,4,Electronic,1
+10943,Female,46,51,3859.23,92605.48,One year,DSL,4,Electronic,0
+10944,Male,49,53,4520.43,44300,Two year,DSL,3,Mailed,0
+10945,Male,68,51,695.4,27621.85,One year,Fiber,1,Card,0
+10946,Male,61,47,2147.59,190708.13,Month-to-month,DSL,3,Bank,0
+10947,Male,35,4,771.15,15460.45,Month-to-month,DSL,0,Bank,1
+10948,Female,23,7,377.98,40619.59,One year,Fiber,0,Mailed,0
+10949,Female,35,35,3410.08,70216.65,Month-to-month,Fiber,4,Mailed,1
+10950,Male,36,48,3131.51,124426.73,Month-to-month,Fiber,5,Bank,1
+10951,Male,39,45,1066.19,109415.42,Two year,DSL,2,Card,0
+10952,Female,54,19,1398.92,26003.05,Month-to-month,Fiber,1,Mailed,0
+10953,Male,49,63,411.43,58655.87,One year,Fiber,1,Electronic,0
+10954,Female,58,38,4224.25,48511.6,Month-to-month,DSL,1,Bank,0
+10955,Male,20,67,4881.05,43495.03,Month-to-month,Fiber,3,Mailed,0
+10956,Male,45,59,936.66,82817.72,Month-to-month,DSL,0,Mailed,0
+10957,Female,27,69,1387.93,141102.26,One year,None,2,Mailed,0
+10958,Male,68,13,4381.52,44273.13,Month-to-month,DSL,0,Bank,0
+10959,Female,52,47,4654.38,73969.1,Month-to-month,Fiber,2,Electronic,0
+10960,Male,46,61,2272.25,78792.57,One year,DSL,0,Electronic,0
+10961,Male,32,31,537.93,195314.85,One year,None,5,Bank,0
+10962,Male,50,22,485.14,190978.61,Two year,DSL,2,Mailed,0
+10963,Female,24,43,2997.56,160227.38,Month-to-month,None,2,Bank,0
+10964,Male,29,67,2146.61,49090.13,Month-to-month,None,7,Bank,1
+10965,Male,66,54,434.67,14539.43,Two year,DSL,1,Mailed,0
+10966,Male,47,10,3041.29,64063.92,One year,Fiber,3,Bank,0
+10967,Male,38,42,353.12,54092.12,Month-to-month,None,0,Card,0
+10968,Female,48,64,4000.65,101679.23,Month-to-month,DSL,1,Electronic,0
+10969,Female,41,21,1740.23,155767.85,One year,DSL,2,Card,0
+10970,Male,37,66,489.21,171806.26,Month-to-month,Fiber,1,Card,0
+10971,Female,54,41,3065.26,169127.95,One year,DSL,2,Card,0
+10972,Male,21,24,2169.12,72575.44,Month-to-month,DSL,0,Bank,0
+10973,Male,45,35,4876.86,137759.63,Month-to-month,DSL,1,Mailed,0
+10974,Male,61,56,2857.73,63254.01,One year,DSL,0,Bank,0
+10975,Female,37,30,1593.62,13120.2,Month-to-month,DSL,4,Electronic,1
+10976,Female,41,57,3634.36,140611.49,Month-to-month,DSL,2,Bank,0
+10977,Female,67,47,1576.01,2955.68,Month-to-month,Fiber,1,Bank,0
+10978,Female,66,35,4549.94,82427.33,Month-to-month,Fiber,0,Bank,0
+10979,Female,68,19,2061.19,66546.47,One year,DSL,8,Bank,0
+10980,Female,49,8,2884.38,138982.13,One year,Fiber,1,Card,0
+10981,Female,58,26,537.69,153482.85,One year,Fiber,3,Mailed,0
+10982,Female,53,71,2302.77,61514.83,Month-to-month,None,2,Electronic,0
+10983,Female,51,30,4212.11,162513.78,Month-to-month,DSL,1,Electronic,0
+10984,Male,53,7,4086.55,59489.44,Month-to-month,DSL,1,Electronic,1
+10985,Female,19,67,1354.3,89818.95,Two year,None,4,Bank,0
+10986,Female,32,65,1362.57,145676.69,One year,None,1,Electronic,0
+10987,Female,51,36,4141.33,138891.13,One year,Fiber,1,Card,0
+10988,Female,53,25,4672.87,197486.33,Month-to-month,Fiber,2,Mailed,0
+10989,Female,23,37,748.2,45807.04,Month-to-month,DSL,2,Bank,0
+10990,Female,56,1,2415.28,132801.26,Month-to-month,Fiber,0,Bank,1
+10991,Female,59,15,1886.04,122326.7,Month-to-month,DSL,2,Card,0
+10992,Female,68,37,4392.24,183104.59,Month-to-month,DSL,1,Electronic,0
+10993,Female,68,13,692.57,32116.07,Two year,Fiber,3,Bank,0
+10994,Female,29,8,1292.29,150607.83,Month-to-month,DSL,1,Bank,1
+10995,Female,20,5,3836.6,114085.45,Month-to-month,DSL,2,Card,1
+10996,Male,62,60,541.08,55658.51,Month-to-month,None,6,Card,1
+10997,Male,35,1,2614.92,95412.55,Two year,DSL,3,Electronic,0
+10998,Female,57,36,2377.9,67421.54,Month-to-month,None,0,Mailed,0
+10999,Female,38,35,1871.69,116283.37,One year,None,2,Mailed,0
+11000,Male,32,66,2154.49,177911.12,Two year,Fiber,4,Electronic,0
+11001,Female,50,63,2790.72,114291.69,Month-to-month,DSL,0,Mailed,0
+11002,Male,52,23,1058.43,126712.76,One year,DSL,3,Card,0
+11003,Male,43,9,2988.38,104230.82,Month-to-month,DSL,2,Card,1
+11004,Male,25,34,4085.53,11181.94,Month-to-month,DSL,3,Card,0
+11005,Male,53,46,3872.76,47338.85,One year,DSL,2,Mailed,0
+11006,Male,65,4,1023.33,98908.34,One year,None,3,Mailed,0
+11007,Female,47,30,1001.47,62736.82,Month-to-month,DSL,1,Bank,0
+11008,Male,40,3,1560.42,37170.96,Month-to-month,Fiber,3,Bank,1
+11009,Female,59,14,1997.05,101322.44,Month-to-month,DSL,1,Bank,0
+11010,Female,61,60,2219.74,65239.15,Month-to-month,Fiber,5,Mailed,1
+11011,Male,31,45,3494.58,52363.42,Month-to-month,None,0,Bank,0
+11012,Male,31,34,566.4,93333.1,Month-to-month,DSL,6,Card,1
+11013,Female,19,45,462.96,27523.57,Month-to-month,DSL,3,Mailed,0
+11014,Male,54,61,2141.98,185621.4,One year,Fiber,2,Electronic,0
+11015,Male,22,16,3576.67,173672.72,Month-to-month,Fiber,3,Mailed,0
+11016,Female,55,66,1209.15,141816.5,Month-to-month,Fiber,1,Bank,0
+11017,Female,62,40,3315.07,22136.55,Month-to-month,DSL,3,Mailed,0
+11018,Male,58,17,1521.19,155399.57,Two year,DSL,1,Bank,0
+11019,Female,64,34,4464.6,161783.51,Month-to-month,None,2,Bank,0
+11020,Male,31,16,4509.74,153785.16,Month-to-month,None,2,Electronic,0
+11021,Male,56,60,1697.25,23679.21,Month-to-month,DSL,1,Electronic,0
+11022,Male,42,66,1380.97,129137.68,One year,Fiber,2,Card,0
+11023,Female,37,66,2233.13,167030.63,Month-to-month,DSL,2,Bank,0
+11024,Female,19,13,1430.5,115893.33,One year,DSL,2,Mailed,0
+11025,Female,56,56,3460.2,129635.07,Two year,DSL,5,Electronic,0
+11026,Female,23,31,4182.5,92214.33,One year,DSL,1,Electronic,0
+11027,Female,34,34,3463.53,106212.76,One year,Fiber,0,Bank,0
+11028,Male,42,39,4174.45,7840.99,Month-to-month,DSL,4,Mailed,1
+11029,Male,45,67,2165.86,128153.64,Month-to-month,DSL,4,Electronic,1
+11030,Male,19,8,1034.69,17208,Two year,Fiber,3,Electronic,0
+11031,Male,52,55,3768.37,87567.9,Month-to-month,Fiber,4,Mailed,1
+11032,Female,54,27,1994.23,59238.36,Month-to-month,Fiber,2,Electronic,0
+11033,Male,22,53,3454.97,109540.16,One year,None,0,Mailed,0
+11034,Female,18,39,1572.03,27549.85,Month-to-month,DSL,0,Bank,0
+11035,Male,57,65,681.78,138637.04,Month-to-month,Fiber,3,Electronic,0
+11036,Female,29,17,4965.13,159207.3,Month-to-month,Fiber,4,Bank,1
+11037,Female,53,30,1034.15,33507.54,Month-to-month,Fiber,2,Mailed,0
+11038,Male,62,53,4945.58,21758.3,One year,DSL,0,Bank,0
+11039,Male,40,13,4893.22,29957.58,Month-to-month,DSL,0,Bank,0
+11040,Male,64,21,4030.95,175548.38,Month-to-month,Fiber,1,Bank,0
+11041,Male,48,19,3399.29,106109.66,Month-to-month,DSL,1,Card,0
+11042,Female,28,53,3015.69,93984.94,One year,Fiber,2,Mailed,0
+11043,Male,27,19,4370.68,22235.65,One year,Fiber,0,Mailed,0
+11044,Male,20,57,1660.37,130261.65,Month-to-month,Fiber,0,Mailed,0
+11045,Female,31,25,2498.1,173731.92,One year,Fiber,1,Mailed,0
+11046,Male,33,31,3211.13,165808.99,Month-to-month,Fiber,2,Mailed,0
+11047,Male,27,55,2232.6,125584.89,Two year,DSL,1,Electronic,0
+11048,Male,46,23,2309.19,15980.46,Month-to-month,Fiber,4,Electronic,1
+11049,Male,27,32,1852.34,23367.01,One year,Fiber,2,Electronic,0
+11050,Male,29,62,2951.89,10812.49,Month-to-month,DSL,3,Bank,0
+11051,Female,47,10,4297.7,52238.36,Month-to-month,DSL,2,Bank,1
+11052,Male,58,54,1247.18,27996.63,Month-to-month,DSL,3,Mailed,0
+11053,Male,18,52,4691.84,52749.56,Two year,None,0,Card,0
+11054,Male,22,20,3538.71,77626.55,Month-to-month,DSL,4,Mailed,1
+11055,Male,37,32,4169.38,188653.57,Two year,Fiber,2,Electronic,0
+11056,Male,25,14,2914.1,122464.84,Month-to-month,DSL,2,Mailed,0
+11057,Female,60,50,3963.73,167159.78,Month-to-month,DSL,1,Bank,0
+11058,Male,29,28,376.14,142359.95,Month-to-month,Fiber,2,Mailed,0
+11059,Female,18,53,4146.39,23388.12,One year,DSL,1,Electronic,0
+11060,Female,37,24,488.65,147448.16,Month-to-month,Fiber,1,Mailed,0
+11061,Male,45,22,4482.59,55744.68,Two year,Fiber,0,Bank,0
+11062,Male,60,30,4962.22,128182.46,Two year,Fiber,3,Card,0
+11063,Male,54,63,1682.12,68851.43,Two year,DSL,5,Electronic,0
+11064,Male,64,4,1288.5,199536.78,Month-to-month,Fiber,2,Mailed,1
+11065,Female,54,59,3897.21,53446.74,One year,Fiber,1,Bank,0
+11066,Male,29,8,1489.22,56546.96,One year,Fiber,0,Electronic,0
+11067,Male,54,12,4368.14,186203.78,Month-to-month,DSL,1,Electronic,0
+11068,Male,66,31,783.36,5904.24,One year,Fiber,2,Bank,0
+11069,Male,66,34,891.99,139641.11,Month-to-month,None,0,Mailed,0
+11070,Male,61,49,4902.01,145339.95,Month-to-month,Fiber,2,Mailed,0
+11071,Male,45,57,3467.04,167439.34,Month-to-month,DSL,1,Mailed,0
+11072,Female,64,26,4280.37,194913.42,Month-to-month,DSL,1,Electronic,0
+11073,Female,32,18,1824.35,195144.78,Month-to-month,DSL,5,Card,1
+11074,Male,23,38,3479.47,13990.07,Month-to-month,DSL,0,Electronic,0
+11075,Male,61,50,3092.94,164546.03,One year,DSL,2,Mailed,0
+11076,Male,37,8,3134.81,129615.68,Month-to-month,DSL,0,Electronic,1
+11077,Female,67,41,3507.9,129821.08,Month-to-month,Fiber,0,Card,0
+11078,Male,31,6,3004.19,26541.64,Month-to-month,DSL,0,Electronic,1
+11079,Female,19,69,2316.59,130387.25,Month-to-month,Fiber,3,Bank,0
+11080,Male,26,44,1596.84,196514.03,One year,DSL,4,Mailed,0
+11081,Male,54,64,3912.33,182451.9,Month-to-month,DSL,4,Mailed,1
+11082,Male,37,29,1363.48,88387,One year,DSL,1,Mailed,0
+11083,Male,43,28,3554.07,8949.65,Month-to-month,DSL,2,Electronic,0
+11084,Female,46,11,1396.66,73096.4,One year,Fiber,2,Electronic,0
+11085,Female,18,65,3239.05,165451.67,Month-to-month,Fiber,1,Electronic,0
+11086,Male,52,19,3811.27,140598.32,Month-to-month,DSL,3,Mailed,0
+11087,Male,23,9,1327.96,92409.39,One year,DSL,3,Electronic,0
+11088,Female,54,27,581.73,11965.21,Month-to-month,DSL,2,Mailed,0
+11089,Female,22,34,915.58,85952.05,One year,Fiber,1,Electronic,0
+11090,Female,50,44,3148.19,94335.96,One year,Fiber,3,Mailed,0
+11091,Female,66,68,4292.4,185782.55,Month-to-month,Fiber,0,Bank,0
+11092,Male,68,15,511.49,128576.13,Month-to-month,Fiber,3,Electronic,0
+11093,Female,31,51,3750.51,63018.93,Month-to-month,Fiber,2,Mailed,0
+11094,Male,29,13,1904.2,105538.33,Two year,DSL,1,Bank,0
+11095,Female,59,49,2549.08,14145.01,One year,DSL,3,Bank,0
+11096,Female,37,70,4665.64,194541.08,Month-to-month,None,3,Card,0
+11097,Female,67,56,1860.27,72651.92,Month-to-month,Fiber,2,Electronic,0
+11098,Female,41,51,2487.08,96095.6,Month-to-month,Fiber,3,Mailed,0
+11099,Female,60,37,364.31,71701.51,One year,Fiber,2,Card,0
+11100,Male,51,17,683.51,136819.83,Month-to-month,DSL,1,Electronic,0
+11101,Male,42,58,1515.38,132784.2,Month-to-month,Fiber,3,Bank,0
+11102,Female,67,29,430.91,143349.14,Two year,Fiber,1,Electronic,0
+11103,Female,46,33,3267.46,54360.5,Month-to-month,DSL,2,Mailed,0
+11104,Male,56,60,2304.07,63818.03,Month-to-month,Fiber,2,Bank,0
+11105,Female,48,55,2876.28,25924.99,Two year,Fiber,4,Card,0
+11106,Female,64,10,1120.84,131446.48,One year,DSL,1,Electronic,0
+11107,Male,60,47,1690.88,8919.63,Month-to-month,DSL,1,Electronic,0
+11108,Female,67,23,3419.98,119938.78,Month-to-month,DSL,2,Card,0
+11109,Female,40,21,4836.92,174069.48,Month-to-month,Fiber,3,Electronic,0
+11110,Male,61,13,536.96,178275.6,Month-to-month,DSL,1,Electronic,0
+11111,Male,55,33,4484.81,90358.51,Two year,Fiber,1,Electronic,0
+11112,Male,37,24,3011.34,92401.43,Month-to-month,Fiber,2,Bank,0
+11113,Female,40,11,2950.42,16316.87,One year,DSL,1,Bank,0
+11114,Male,62,17,2651.31,134482.24,Two year,None,2,Mailed,0
+11115,Male,69,68,626.15,164430.62,Month-to-month,None,2,Electronic,0
+11116,Male,33,47,722.42,49686.36,Month-to-month,DSL,1,Mailed,0
+11117,Male,67,25,3124.29,84838.88,Month-to-month,DSL,1,Bank,0
+11118,Male,59,21,1902.51,167929.03,Two year,None,2,Electronic,0
+11119,Male,25,12,4611.16,175546.97,One year,None,1,Mailed,0
+11120,Female,67,37,2210.98,49392.82,Month-to-month,DSL,2,Electronic,0
+11121,Female,38,42,973.42,110563.56,One year,DSL,2,Electronic,0
+11122,Male,18,17,3659.18,39306.14,Month-to-month,DSL,3,Card,0
+11123,Male,25,48,1678.76,21273.87,Two year,None,3,Mailed,0
+11124,Male,46,28,2769.71,182312.98,Month-to-month,DSL,2,Bank,0
+11125,Female,49,41,3579.81,164280.99,Month-to-month,Fiber,4,Mailed,1
+11126,Female,55,47,4531.24,152246.95,Two year,Fiber,4,Mailed,0
+11127,Female,22,18,4023.3,10704.5,Month-to-month,DSL,1,Mailed,0
+11128,Female,64,71,3478.9,168902.03,Month-to-month,Fiber,3,Card,0
+11129,Female,39,13,3494.28,88170.77,Month-to-month,DSL,1,Electronic,0
+11130,Female,64,13,4745.85,69136.63,Month-to-month,Fiber,0,Bank,0
+11131,Female,51,31,1690.37,109748.8,Month-to-month,DSL,3,Card,0
+11132,Female,18,2,305.23,19179.3,Two year,Fiber,3,Bank,0
+11133,Female,43,16,1578.19,151572.66,Month-to-month,Fiber,0,Card,0
+11134,Male,60,9,1324.09,116904.58,Month-to-month,DSL,0,Electronic,1
+11135,Male,27,38,3410.62,38131.43,One year,DSL,4,Bank,0
+11136,Male,47,54,3278.44,38458.21,Month-to-month,DSL,1,Mailed,0
+11137,Male,67,56,3089.27,37665.48,Month-to-month,DSL,4,Card,1
+11138,Female,35,45,376.34,12343.48,One year,Fiber,2,Bank,0
+11139,Female,34,34,3725.26,117971.89,Two year,Fiber,2,Electronic,0
+11140,Male,43,9,1820.59,168229.29,One year,DSL,3,Bank,0
+11141,Female,25,8,3425.76,4482.14,One year,Fiber,2,Card,0
+11142,Male,64,7,2915.92,10751.92,Month-to-month,Fiber,2,Electronic,1
+11143,Female,57,36,1910.84,114981.29,Two year,Fiber,0,Mailed,0
+11144,Male,66,18,932.51,164079.64,Month-to-month,DSL,3,Card,0
+11145,Female,29,3,743.77,66021.04,One year,DSL,2,Card,0
+11146,Female,44,28,4208.14,70573.27,Month-to-month,DSL,2,Electronic,0
+11147,Male,25,70,4616.47,119672.95,Two year,Fiber,1,Card,0
+11148,Female,42,44,3354,55568.36,One year,DSL,1,Bank,0
+11149,Male,63,21,786.14,6295.06,One year,DSL,1,Mailed,0
+11150,Male,21,28,2189.53,147310.48,Month-to-month,DSL,3,Bank,0
+11151,Male,50,54,3726.01,125504.33,Month-to-month,Fiber,1,Electronic,0
+11152,Male,18,54,3965.16,116570.44,One year,DSL,4,Card,0
+11153,Female,36,65,855.63,148595.14,One year,DSL,2,Mailed,0
+11154,Female,48,21,300.14,135370.94,Month-to-month,DSL,1,Electronic,0
+11155,Female,33,13,3647.04,41970.52,Two year,DSL,1,Bank,0
+11156,Male,31,57,1976,71143.73,Two year,Fiber,3,Card,0
+11157,Female,65,49,1496.06,26095.92,Month-to-month,DSL,2,Card,0
+11158,Male,22,54,360.62,26841.55,One year,DSL,0,Electronic,0
+11159,Female,58,10,2839.41,135562.95,Month-to-month,Fiber,3,Bank,1
+11160,Female,43,53,4300.41,171861.42,Month-to-month,DSL,1,Card,0
+11161,Female,45,44,4800.87,192583.78,Month-to-month,DSL,0,Bank,0
+11162,Male,19,47,2959,126041.08,Month-to-month,Fiber,6,Mailed,1
+11163,Female,67,53,2717.97,37636.16,One year,DSL,1,Card,0
+11164,Female,23,46,699.77,22024.42,Month-to-month,DSL,4,Mailed,1
+11165,Male,26,13,2879.7,162757.34,One year,DSL,3,Card,0
+11166,Female,50,37,2085.9,116172.54,One year,DSL,3,Electronic,0
+11167,Male,58,24,3153.54,124038.72,One year,Fiber,3,Card,0
+11168,Female,42,2,2127.01,156510.96,Month-to-month,Fiber,3,Card,1
+11169,Male,65,14,1429.41,140952.17,Two year,Fiber,1,Bank,0
+11170,Male,30,10,746.34,167057.19,Month-to-month,DSL,0,Bank,1
+11171,Female,26,35,1780.12,12186.57,Month-to-month,DSL,1,Mailed,0
+11172,Male,30,25,754.23,149756.61,Month-to-month,Fiber,1,Mailed,0
+11173,Male,48,3,1131.42,170319.7,Month-to-month,None,0,Mailed,1
+11174,Male,58,17,4940.48,57940.87,Two year,DSL,1,Card,0
+11175,Male,28,12,2387.29,128449.01,Month-to-month,DSL,3,Card,0
+11176,Male,21,54,2799.8,63518.25,One year,DSL,0,Mailed,0
+11177,Male,51,24,4406.01,191636.24,Month-to-month,DSL,0,Electronic,0
+11178,Female,55,29,4979.17,7651.29,Month-to-month,DSL,2,Electronic,0
+11179,Male,63,43,3038.76,116378.78,Two year,DSL,1,Card,0
+11180,Male,21,25,4118.63,34134.21,One year,Fiber,4,Electronic,0
+11181,Female,55,60,1836.62,142731.82,Month-to-month,Fiber,0,Electronic,0
+11182,Female,36,65,1737,36002.17,Month-to-month,DSL,2,Mailed,0
+11183,Female,23,28,2192.71,47841.27,Month-to-month,DSL,4,Electronic,1
+11184,Female,51,16,3460.78,99379.79,Month-to-month,Fiber,2,Electronic,0
+11185,Female,35,47,3506.3,183052.16,One year,DSL,4,Card,0
+11186,Female,30,58,1781.63,43131.16,One year,Fiber,1,Card,0
+11187,Female,58,27,926.09,29703.76,Month-to-month,DSL,2,Card,0
+11188,Male,40,53,3272.26,152036.39,Two year,Fiber,0,Electronic,0
+11189,Male,36,42,903.13,100623.29,Month-to-month,DSL,2,Mailed,0
+11190,Female,62,59,3018.91,182445.24,Month-to-month,DSL,2,Bank,0
+11191,Male,28,47,3559.08,30176.3,Month-to-month,DSL,4,Card,1
+11192,Male,18,34,3592.87,129539.65,One year,DSL,1,Card,0
+11193,Male,41,37,3841.32,47342.95,Month-to-month,DSL,5,Card,1
+11194,Female,24,6,4402.44,32195.33,Month-to-month,Fiber,1,Mailed,1
+11195,Female,42,7,2649.81,137002.45,Month-to-month,DSL,0,Bank,1
+11196,Male,38,25,3732.17,119143.24,Month-to-month,DSL,3,Bank,0
+11197,Female,32,33,3210.11,151210.66,One year,Fiber,1,Card,0
+11198,Male,18,55,1177.21,62583.05,Month-to-month,Fiber,3,Electronic,0
+11199,Male,29,58,420.74,90146.36,Month-to-month,None,4,Card,1
+11200,Male,24,7,1637.34,81688.86,One year,Fiber,0,Card,0
+11201,Male,32,57,2382.26,196833.8,Two year,DSL,1,Electronic,0
+11202,Female,38,12,3200.4,59157.54,Two year,Fiber,2,Electronic,0
+11203,Female,36,16,4294.81,59668.63,Month-to-month,None,1,Card,0
+11204,Female,46,43,1222.35,71555.09,Month-to-month,Fiber,4,Mailed,1
+11205,Male,42,7,890.08,113354.22,Month-to-month,DSL,1,Mailed,1
+11206,Female,50,51,4828.36,51212.23,Month-to-month,DSL,4,Electronic,1
+11207,Male,66,32,807.81,183142.7,Two year,DSL,0,Card,0
+11208,Female,49,8,2548.91,53871.43,Month-to-month,Fiber,0,Mailed,1
+11209,Male,66,45,3052.15,179267.33,Month-to-month,Fiber,2,Card,0
+11210,Male,52,59,2844.46,21591.54,Month-to-month,Fiber,4,Card,1
+11211,Male,61,4,704.35,131655.98,Month-to-month,DSL,4,Card,1
+11212,Female,55,67,568.03,181490.12,One year,Fiber,1,Mailed,0
+11213,Female,43,29,795.77,34581.14,Month-to-month,Fiber,3,Bank,0
+11214,Female,28,29,3052.26,193697.07,Month-to-month,DSL,1,Card,0
+11215,Female,52,28,2858.42,91123.79,Month-to-month,Fiber,1,Mailed,0
+11216,Male,25,44,1398.58,189197.31,Month-to-month,DSL,1,Bank,0
+11217,Female,63,4,3297.54,135687.19,Month-to-month,Fiber,2,Electronic,1
+11218,Female,31,9,4154.32,61015.79,One year,Fiber,3,Mailed,0
+11219,Male,27,5,495.42,38472.2,Month-to-month,Fiber,3,Bank,1
+11220,Male,19,56,2641.21,61443.27,One year,Fiber,0,Mailed,0
+11221,Male,63,50,3539.76,19510.46,Two year,Fiber,0,Bank,0
+11222,Female,26,15,1485.87,29629.73,Two year,DSL,0,Bank,0
+11223,Male,20,32,1746.52,21827.43,Two year,DSL,1,Mailed,0
+11224,Male,38,28,3184.1,85165.77,Month-to-month,Fiber,2,Electronic,0
+11225,Male,43,22,4520.3,159320.1,Month-to-month,DSL,3,Card,0
+11226,Female,25,17,4106.64,29135.33,Month-to-month,DSL,2,Bank,0
+11227,Male,65,59,3040.71,26933.77,Two year,Fiber,3,Card,0
+11228,Female,19,71,3732.04,129042.36,Two year,Fiber,3,Electronic,0
+11229,Female,23,57,2014.67,40239.41,Two year,DSL,4,Card,0
+11230,Male,45,26,3312.54,20424.4,Month-to-month,DSL,2,Card,0
+11231,Male,46,25,2491.05,34202.87,Two year,DSL,1,Mailed,0
+11232,Female,43,10,1192.7,184822.55,Month-to-month,DSL,2,Mailed,1
+11233,Male,42,45,3598.17,164472.78,Month-to-month,DSL,2,Electronic,0
+11234,Male,29,11,2915.38,71458.85,Month-to-month,Fiber,2,Mailed,1
+11235,Female,22,53,1985.52,131508.33,Month-to-month,DSL,1,Bank,0
+11236,Female,51,68,4583.29,107917.86,Month-to-month,DSL,1,Electronic,0
+11237,Male,65,28,398.39,135747.73,Month-to-month,DSL,0,Mailed,0
+11238,Female,54,65,1784.13,136851.56,Month-to-month,None,0,Mailed,0
+11239,Male,32,49,567.34,126118.07,One year,DSL,2,Electronic,0
+11240,Male,61,47,3902.68,53954.17,Two year,DSL,1,Bank,0
+11241,Male,53,52,3599.91,8762.28,One year,DSL,7,Electronic,0
+11242,Female,32,54,1857.36,91657.79,Month-to-month,Fiber,1,Mailed,0
+11243,Male,60,60,3475.62,178303.8,One year,Fiber,1,Mailed,0
+11244,Male,65,57,2160.9,114329.95,Two year,DSL,1,Electronic,0
+11245,Male,40,47,3854.39,166645.82,Month-to-month,DSL,2,Bank,0
+11246,Female,23,31,2434.66,198333.24,Month-to-month,DSL,4,Bank,1
+11247,Female,63,46,2237.71,33559.62,Month-to-month,Fiber,2,Card,0
+11248,Female,67,26,4693.23,138663.75,Month-to-month,Fiber,1,Bank,0
+11249,Female,61,5,1479.13,135184.42,One year,DSL,1,Electronic,0
+11250,Female,60,52,866.1,196011.13,Two year,DSL,1,Bank,0
+11251,Male,62,54,3047.35,197134.55,Month-to-month,DSL,0,Bank,0
+11252,Female,38,33,4855.81,137649.04,One year,DSL,4,Card,0
+11253,Female,40,50,2075.84,49479.34,Two year,Fiber,1,Bank,0
+11254,Female,60,38,591.57,159912.61,Two year,DSL,3,Card,0
+11255,Male,33,27,1894.73,22298.8,Month-to-month,DSL,3,Card,0
+11256,Female,64,15,2677.88,156359.16,Two year,DSL,3,Bank,0
+11257,Female,32,61,1061.04,182129.03,Month-to-month,None,2,Mailed,0
+11258,Male,42,21,3393.08,77183.85,Month-to-month,Fiber,2,Electronic,0
+11259,Female,53,46,4989.42,126496.42,Month-to-month,DSL,3,Electronic,0
+11260,Male,28,69,2423.18,86598.4,Month-to-month,DSL,2,Bank,0
+11261,Male,68,6,1967.22,88115.25,One year,DSL,0,Electronic,0
+11262,Male,32,38,2183.31,62763.81,Month-to-month,DSL,3,Electronic,0
+11263,Male,21,62,841.19,152663.79,Month-to-month,DSL,2,Card,0
+11264,Male,38,62,4451.39,187299.14,Month-to-month,Fiber,4,Mailed,1
+11265,Female,30,46,2249.68,188209.42,One year,Fiber,2,Electronic,0
+11266,Male,39,13,2120.19,35781.48,Month-to-month,Fiber,1,Mailed,0
+11267,Male,36,3,3400.54,175073.99,One year,DSL,3,Electronic,0
+11268,Female,51,6,2377.56,147748.86,Month-to-month,Fiber,2,Mailed,1
+11269,Male,31,8,3346.7,51314.64,Month-to-month,Fiber,2,Mailed,1
+11270,Female,21,44,588.8,14389.64,Month-to-month,DSL,0,Electronic,0
+11271,Female,65,33,4124.5,54331.46,Month-to-month,DSL,0,Card,0
+11272,Female,69,50,4720.37,182529.44,Month-to-month,DSL,4,Mailed,1
+11273,Male,63,11,3349.2,127002.56,Month-to-month,DSL,1,Mailed,1
+11274,Male,44,28,4786.46,144489.88,Two year,DSL,2,Electronic,0
+11275,Male,46,70,1011.73,52173.32,One year,Fiber,1,Mailed,0
+11276,Female,64,41,2543.86,144158.24,Month-to-month,DSL,1,Mailed,0
+11277,Male,45,16,3128.49,6596.18,Month-to-month,None,1,Card,0
+11278,Male,52,68,3034.16,75688.95,Two year,DSL,2,Mailed,0
+11279,Male,25,48,2186.87,125723.92,Month-to-month,None,3,Card,0
+11280,Female,33,56,1889,30073.22,Month-to-month,DSL,2,Mailed,0
+11281,Female,59,64,896.07,164777.71,One year,Fiber,1,Mailed,0
+11282,Male,53,59,2141.19,47771.23,One year,DSL,1,Card,0
+11283,Male,47,62,1064.51,130803.94,Month-to-month,DSL,2,Card,0
+11284,Male,35,11,3751.52,81634.23,Month-to-month,Fiber,1,Bank,1
+11285,Male,19,18,1281.51,119612.68,Month-to-month,DSL,3,Mailed,0
+11286,Female,66,19,575.26,22382.66,One year,Fiber,2,Card,0
+11287,Female,30,55,2896.12,4365.65,Month-to-month,Fiber,1,Mailed,0
+11288,Female,21,26,3097.58,182003.32,Month-to-month,DSL,3,Mailed,0
+11289,Female,43,6,4397.99,54656.37,Month-to-month,DSL,3,Mailed,1
+11290,Male,42,4,3011.81,164115.72,Month-to-month,Fiber,4,Electronic,1
+11291,Male,47,29,1923.76,199870.71,Two year,DSL,0,Bank,0
+11292,Male,28,59,4074.16,43074.82,One year,Fiber,4,Electronic,0
+11293,Female,24,17,2839.31,53768.98,One year,Fiber,2,Bank,0
+11294,Male,48,43,672.62,132909.1,Month-to-month,DSL,2,Mailed,0
+11295,Female,61,66,2959.5,193124.28,Month-to-month,DSL,0,Mailed,0
+11296,Female,27,34,4567.69,183247.06,Month-to-month,Fiber,1,Card,0
+11297,Male,56,8,2162.67,101072.23,Month-to-month,DSL,4,Bank,1
+11298,Male,30,13,1692.73,159226.95,Two year,DSL,2,Bank,0
+11299,Male,48,8,974.31,28013.42,Month-to-month,DSL,3,Electronic,1
+11300,Female,24,65,1011.79,195510.2,Month-to-month,Fiber,2,Bank,0
+11301,Male,66,43,2334.03,192906.29,Month-to-month,DSL,7,Mailed,1
+11302,Female,59,39,3099.7,33582.06,One year,DSL,2,Card,0
+11303,Male,59,59,678.89,60585.2,Month-to-month,Fiber,3,Electronic,0
+11304,Female,53,44,4715.97,20930.84,Month-to-month,DSL,0,Card,0
+11305,Female,37,9,3849.13,55071.8,Month-to-month,DSL,2,Bank,1
+11306,Male,21,37,3057.13,163375.2,Two year,None,3,Bank,0
+11307,Female,24,36,4193.66,76284.81,Month-to-month,Fiber,3,Electronic,0
+11308,Female,18,28,676.88,18591,Two year,Fiber,3,Bank,0
+11309,Male,61,42,2541.14,69102.88,One year,DSL,3,Card,0
+11310,Female,62,43,3261.44,196295.28,Month-to-month,Fiber,1,Mailed,0
+11311,Male,59,42,4194.67,126307.04,One year,DSL,2,Electronic,0
+11312,Female,64,66,3982.31,83816.03,Month-to-month,DSL,2,Bank,0
+11313,Male,30,55,1602.23,34141.16,Two year,DSL,1,Card,0
+11314,Male,39,48,4722.14,197249.18,Month-to-month,DSL,1,Mailed,0
+11315,Female,38,22,884.43,164348.95,Month-to-month,Fiber,3,Bank,0
+11316,Female,39,27,4413.13,57013.98,Month-to-month,DSL,4,Electronic,1
+11317,Female,45,67,4863.42,14943.67,Month-to-month,Fiber,1,Bank,0
+11318,Female,26,13,1132.62,12268.49,Two year,Fiber,0,Bank,0
+11319,Female,43,45,3693.71,24955.25,Month-to-month,Fiber,2,Bank,0
+11320,Male,26,10,489.34,116572.95,One year,DSL,1,Mailed,0
+11321,Female,32,9,2205.49,185823.92,Month-to-month,Fiber,2,Mailed,1
+11322,Male,27,54,2726.53,99851.94,Two year,DSL,3,Bank,0
+11323,Male,41,27,3029.03,168746.15,Month-to-month,DSL,2,Bank,0
+11324,Female,59,34,4698.91,89731.44,Month-to-month,None,0,Electronic,0
+11325,Male,25,1,3459.58,142008.13,Month-to-month,DSL,1,Bank,1
+11326,Male,41,32,2562.01,146642.67,One year,DSL,1,Card,0
+11327,Male,33,71,4105.47,35618.78,Month-to-month,Fiber,0,Card,0
+11328,Male,66,67,4767.5,72882,Month-to-month,DSL,4,Electronic,1
+11329,Female,43,20,403.71,127823.13,Month-to-month,Fiber,1,Mailed,0
+11330,Male,44,35,4917.85,15068.63,One year,DSL,2,Bank,0
+11331,Female,54,17,704.82,72946.5,Month-to-month,DSL,0,Electronic,0
+11332,Female,21,18,4127.62,107425.09,Month-to-month,DSL,4,Mailed,1
+11333,Male,67,45,1617.57,199248.67,Month-to-month,DSL,0,Electronic,0
+11334,Female,41,53,921.24,95432.18,Two year,DSL,1,Mailed,0
+11335,Female,36,68,2367.32,163395.29,Two year,Fiber,2,Bank,0
+11336,Female,53,65,3326.6,86981.39,Month-to-month,Fiber,3,Electronic,0
+11337,Male,56,1,2090.47,159481.75,Month-to-month,None,1,Bank,1
+11338,Female,27,58,556.46,119487.55,Month-to-month,DSL,2,Electronic,0
+11339,Female,42,26,3117.47,177432.49,Month-to-month,Fiber,4,Mailed,1
+11340,Female,35,20,4541.3,82777.57,Month-to-month,Fiber,6,Electronic,1
+11341,Male,36,10,2101.11,121256.58,One year,None,0,Card,0
+11342,Female,53,59,1316.76,126373.72,Month-to-month,DSL,1,Card,0
+11343,Male,27,41,2380.11,84059.21,Two year,Fiber,1,Electronic,0
+11344,Male,50,5,527.3,29718.1,Month-to-month,Fiber,2,Card,1
+11345,Male,67,65,4156.29,19618.32,One year,DSL,0,Bank,0
+11346,Male,22,17,4183.8,4317.64,Month-to-month,Fiber,3,Card,0
+11347,Male,64,22,3063.6,174833.32,Month-to-month,DSL,5,Card,1
+11348,Male,66,41,1959.58,48058.51,Month-to-month,Fiber,1,Bank,0
+11349,Female,52,68,4058.98,43089.84,Month-to-month,None,4,Bank,1
+11350,Male,61,69,2907.03,147471.04,Month-to-month,Fiber,2,Mailed,0
+11351,Female,51,11,4181.88,64683.21,One year,DSL,2,Bank,0
+11352,Female,50,56,3267.86,101702.89,Two year,DSL,3,Electronic,0
+11353,Male,38,51,3986.71,33339.7,Month-to-month,None,2,Card,0
+11354,Female,34,21,3113.25,191989.4,Month-to-month,DSL,4,Mailed,1
+11355,Female,39,26,2246.46,170464.7,Month-to-month,DSL,2,Bank,0
+11356,Female,65,19,4802.35,172894.13,Month-to-month,Fiber,7,Card,1
+11357,Female,54,60,2843.23,81947.98,Month-to-month,DSL,1,Electronic,0
+11358,Male,32,71,3143.92,152709.88,One year,DSL,2,Electronic,0
+11359,Female,52,47,1336.29,29631.35,Two year,DSL,3,Mailed,0
+11360,Male,45,71,3240.56,2715.18,Two year,DSL,1,Electronic,0
+11361,Female,24,26,2986.56,4974.61,Month-to-month,Fiber,1,Card,0
+11362,Female,49,40,1168.74,117733.75,Two year,Fiber,3,Bank,0
+11363,Male,28,5,580.06,91623.59,One year,Fiber,2,Electronic,0
+11364,Female,27,21,3140.49,104085.05,Month-to-month,Fiber,1,Bank,0
+11365,Female,26,4,3889.35,2485.16,Month-to-month,Fiber,4,Card,1
+11366,Female,31,23,2759.99,85114.64,One year,Fiber,2,Card,0
+11367,Male,30,15,1365.83,143895.56,Month-to-month,DSL,1,Bank,0
+11368,Female,42,8,3432.65,89096.05,Month-to-month,Fiber,2,Card,1
+11369,Male,19,41,676.5,146711.62,Month-to-month,DSL,3,Mailed,0
+11370,Female,52,19,2376.62,47370.77,Month-to-month,Fiber,1,Electronic,0
+11371,Male,24,46,1067.82,162815.26,Month-to-month,Fiber,0,Mailed,0
+11372,Male,38,28,1166.96,118097.82,Two year,DSL,1,Mailed,0
+11373,Female,35,68,1250.78,42941.86,One year,None,0,Mailed,0
+11374,Female,20,15,2117.52,48107.37,One year,DSL,1,Bank,0
+11375,Male,59,37,540.41,125978.06,Month-to-month,Fiber,2,Bank,0
+11376,Male,56,1,2169.63,166157.98,One year,DSL,1,Card,0
+11377,Female,58,67,2705.03,83709.93,Month-to-month,None,4,Bank,1
+11378,Male,66,24,2571.48,52401.79,Month-to-month,DSL,1,Card,0
+11379,Female,28,27,2099.09,173535.31,Month-to-month,DSL,2,Bank,0
+11380,Female,56,40,4243.99,134184.39,Month-to-month,DSL,0,Card,0
+11381,Female,41,63,983.04,90169.01,Month-to-month,DSL,0,Electronic,0
+11382,Female,63,61,2676.77,98092.14,Month-to-month,DSL,5,Card,1
+11383,Male,36,36,591.59,41647.04,Month-to-month,Fiber,0,Electronic,0
+11384,Female,21,24,634.43,125733.72,Month-to-month,DSL,0,Card,0
+11385,Male,43,24,2997.17,72389.76,Two year,DSL,1,Bank,0
+11386,Female,55,4,2960.29,199133.39,Month-to-month,DSL,0,Bank,1
+11387,Male,59,67,4426.76,96556.52,One year,Fiber,1,Electronic,0
+11388,Female,49,34,2922.01,97691.24,Month-to-month,Fiber,1,Mailed,0
+11389,Male,56,57,4811.02,113604.51,Month-to-month,Fiber,3,Mailed,0
+11390,Male,62,49,528.87,183434.44,Two year,Fiber,1,Card,0
+11391,Female,63,53,760.64,160362.8,Month-to-month,DSL,1,Bank,0
+11392,Female,53,23,507.11,90774.88,Month-to-month,DSL,3,Mailed,0
+11393,Female,57,69,1170.8,144021.15,One year,DSL,2,Bank,0
+11394,Female,54,53,2843.97,117660.86,Month-to-month,Fiber,3,Bank,0
+11395,Male,50,62,3334.19,98981.04,One year,None,1,Bank,0
+11396,Female,53,41,514.25,39270.84,Month-to-month,DSL,0,Card,0
+11397,Male,20,57,4746.06,93323.32,Month-to-month,DSL,0,Electronic,0
+11398,Male,26,60,4258.18,49917.9,Month-to-month,DSL,1,Card,0
+11399,Female,25,54,1694.08,183053.59,Month-to-month,DSL,6,Mailed,1
+11400,Male,50,70,662.78,67745.96,Two year,Fiber,0,Electronic,0
+11401,Male,23,57,1098.47,190500.54,One year,DSL,5,Mailed,0
+11402,Male,58,10,896.64,107078,Month-to-month,None,1,Electronic,1
+11403,Male,56,40,879.43,126677.33,Month-to-month,DSL,3,Electronic,0
+11404,Female,21,7,2737.24,109045.15,One year,None,3,Card,0
+11405,Female,30,38,1455.48,26746.74,Month-to-month,Fiber,2,Bank,0
+11406,Female,66,61,1983.26,75788.42,Month-to-month,Fiber,2,Bank,0
+11407,Female,19,3,4950.68,20730.08,Month-to-month,Fiber,2,Electronic,1
+11408,Male,22,51,3516.28,124967.85,Month-to-month,Fiber,2,Card,0
+11409,Male,61,47,4760.21,89927.96,One year,Fiber,4,Mailed,0
+11410,Female,44,68,970.02,155819.01,Two year,Fiber,2,Mailed,0
+11411,Female,49,38,2096.06,44873.63,Month-to-month,Fiber,1,Bank,0
+11412,Female,38,36,2907.24,33748.65,Month-to-month,None,2,Bank,0
+11413,Male,25,41,660.76,81860.11,Month-to-month,Fiber,3,Mailed,0
+11414,Female,55,69,319.68,185390.49,Month-to-month,Fiber,3,Mailed,0
+11415,Female,25,13,3451.04,142373.94,Month-to-month,Fiber,1,Card,0
+11416,Female,67,58,3316.55,84365.8,One year,DSL,3,Mailed,0
+11417,Male,20,50,2230.71,103937.16,Month-to-month,DSL,3,Card,0
+11418,Male,61,30,2601.33,17758.39,Month-to-month,DSL,1,Bank,0
+11419,Male,20,62,2252.58,196930.6,Month-to-month,Fiber,1,Mailed,0
+11420,Male,39,25,412.82,133615.05,Month-to-month,Fiber,0,Bank,0
+11421,Male,23,27,1876.25,57795.41,Month-to-month,DSL,1,Electronic,0
+11422,Male,19,51,1132.29,117575.87,One year,Fiber,2,Electronic,0
+11423,Male,40,57,762.59,22786.99,Month-to-month,Fiber,4,Electronic,1
+11424,Male,61,47,4796.59,193201.5,One year,DSL,3,Mailed,0
+11425,Female,19,39,3116.99,35782.21,Month-to-month,Fiber,1,Bank,0
+11426,Female,55,16,3724.68,129958.03,Month-to-month,Fiber,3,Mailed,0
+11427,Male,34,22,1782.21,49845.44,Month-to-month,DSL,4,Bank,1
+11428,Male,52,54,2147.79,143794.72,Month-to-month,Fiber,2,Card,0
+11429,Female,51,21,1413.54,155587.45,Month-to-month,Fiber,3,Mailed,0
+11430,Male,40,16,755.74,135010.53,Month-to-month,DSL,1,Electronic,0
+11431,Male,47,59,1141.45,123285.39,One year,DSL,0,Card,0
+11432,Male,69,31,4048.32,178601.35,One year,None,1,Bank,0
+11433,Female,25,42,3484.47,16646.72,Month-to-month,DSL,1,Mailed,0
+11434,Female,39,32,2870.57,66852.04,Month-to-month,DSL,3,Bank,0
+11435,Female,61,59,2532.92,50409.21,Month-to-month,DSL,1,Bank,0
+11436,Female,53,34,4635.44,197614.78,Month-to-month,Fiber,4,Mailed,1
+11437,Female,22,9,641.85,78488.57,Month-to-month,Fiber,4,Mailed,1
+11438,Male,30,11,1618.82,146789.93,Two year,Fiber,1,Bank,0
+11439,Female,46,10,1944.71,137260.31,Month-to-month,DSL,1,Bank,1
+11440,Male,48,17,3977.4,43204.17,Month-to-month,Fiber,1,Card,0
+11441,Male,64,68,4964.82,48560.54,Month-to-month,DSL,3,Electronic,0
+11442,Female,33,48,1431.15,56975.63,Month-to-month,DSL,3,Bank,0
+11443,Female,59,52,4409.24,82814.33,One year,DSL,2,Electronic,0
+11444,Male,47,25,4203.93,47630.69,Month-to-month,DSL,2,Card,0
+11445,Male,33,21,1355.89,4910.65,Month-to-month,Fiber,4,Electronic,1
+11446,Male,29,65,2176.86,175999.22,One year,None,1,Electronic,0
+11447,Female,34,63,2225.46,193156.36,Month-to-month,DSL,2,Card,0
+11448,Female,33,51,4897.64,68972.51,One year,Fiber,2,Bank,0
+11449,Female,29,36,1150.19,68362.87,Month-to-month,Fiber,2,Electronic,0
+11450,Female,25,66,4056.04,2411.27,Month-to-month,None,3,Bank,0
+11451,Female,37,15,1870.71,136369.89,One year,DSL,2,Bank,0
+11452,Male,20,39,3735.09,165262.54,Month-to-month,Fiber,1,Mailed,0
+11453,Female,33,70,2274.05,30175.05,Month-to-month,DSL,3,Bank,0
+11454,Male,47,1,3018.29,32773.6,Month-to-month,Fiber,2,Bank,1
+11455,Male,62,23,4213.28,158226.57,Month-to-month,DSL,2,Electronic,0
+11456,Male,40,39,4079.58,123641.86,One year,Fiber,4,Bank,0
+11457,Female,45,57,4372.19,9927.25,Two year,DSL,0,Bank,0
+11458,Female,68,34,580.2,124886.85,Two year,DSL,5,Mailed,0
+11459,Female,57,41,3552.64,62474.63,One year,Fiber,1,Mailed,0
+11460,Male,22,13,957.94,74376.31,Month-to-month,Fiber,1,Electronic,0
+11461,Male,37,70,2254.35,154176.55,Month-to-month,Fiber,2,Electronic,0
+11462,Male,57,6,2878.37,162376.1,Month-to-month,Fiber,1,Mailed,1
+11463,Male,61,52,2192.88,80670.97,Month-to-month,DSL,1,Mailed,0
+11464,Male,18,3,2742.17,189483.43,Month-to-month,Fiber,0,Card,1
+11465,Male,47,63,4983.67,81886.08,Two year,DSL,1,Bank,0
+11466,Female,38,49,935.52,154595.37,Month-to-month,DSL,1,Electronic,0
+11467,Female,37,47,3474.64,97291.58,Month-to-month,Fiber,1,Electronic,0
+11468,Female,23,55,2161.2,179608.93,Month-to-month,Fiber,1,Bank,0
+11469,Female,39,64,925.15,181644.49,One year,Fiber,0,Bank,0
+11470,Male,35,65,1046.06,18395.94,One year,Fiber,3,Electronic,0
+11471,Male,25,67,4761.58,187362.17,One year,Fiber,1,Mailed,0
+11472,Female,56,15,4434.13,165281.43,Month-to-month,DSL,2,Mailed,0
+11473,Male,49,32,4563.1,158470.83,One year,DSL,1,Bank,0
+11474,Female,50,68,4960.2,40981.36,Month-to-month,Fiber,1,Electronic,0
+11475,Female,33,18,1279.08,161218.72,Two year,DSL,1,Bank,0
+11476,Female,29,43,1970.56,170176.41,Month-to-month,DSL,1,Mailed,0
+11477,Male,55,35,3445.33,58540.92,Month-to-month,DSL,4,Card,1
+11478,Female,69,58,2573.87,190499.76,Month-to-month,Fiber,5,Card,1
+11479,Female,51,33,2266.43,10922.17,One year,DSL,1,Mailed,0
+11480,Female,31,14,1981.71,30831.94,Month-to-month,Fiber,0,Bank,0
+11481,Male,53,34,3090.77,107978.65,Two year,Fiber,3,Card,0
+11482,Male,50,61,3005.29,115582.7,Month-to-month,DSL,4,Mailed,1
+11483,Female,40,4,1058.85,129384.87,Month-to-month,Fiber,4,Electronic,1
+11484,Male,67,59,2517.18,4376.86,Month-to-month,Fiber,4,Bank,1
+11485,Male,62,29,2901.32,192112.99,Month-to-month,Fiber,3,Bank,0
+11486,Male,19,6,2980.35,9873.03,Month-to-month,Fiber,2,Card,1
+11487,Male,58,49,1287.5,29469.33,Month-to-month,DSL,0,Bank,0
+11488,Male,38,40,3788.68,3788.89,One year,Fiber,3,Card,0
+11489,Male,19,65,418.44,113804.83,Month-to-month,DSL,3,Card,0
+11490,Male,44,69,1967.71,186521.11,Two year,None,2,Mailed,0
+11491,Male,26,27,3967,133523.49,Month-to-month,Fiber,1,Card,0
+11492,Male,18,6,2950.3,164708.84,One year,Fiber,2,Electronic,0
+11493,Male,28,13,1527.46,3642.96,Month-to-month,DSL,1,Bank,0
+11494,Female,20,64,3566.28,108861.04,Month-to-month,DSL,0,Card,0
+11495,Female,69,62,2966.74,92453.03,Month-to-month,DSL,4,Bank,1
+11496,Male,40,19,4042.34,100294.62,Month-to-month,DSL,1,Card,0
+11497,Female,43,43,3754.62,15370.42,Two year,DSL,4,Mailed,0
+11498,Female,21,20,3167.51,137202.64,Month-to-month,Fiber,2,Electronic,0
+11499,Male,35,68,2594.44,101140.86,Month-to-month,DSL,1,Bank,0
+11500,Male,23,44,925.96,153264.62,Two year,None,3,Mailed,0
